@@ -78,7 +78,7 @@ Markdown on the Web, with No Web Server Needed
 - **[Open Textbooks and Guides](open-publishing-space/README.md)** – for you if you write or share textbooks and guides
 - **[Open Courses](open-course-hub/README.md)** – for you if you teach or design courses
 - **[Grav 2 for Open Education and Publishing](grav-2/README.md)** – for you if you're choosing a platform
-- **[Docsify for Open Education and Publishing](docsify/README.md)** – for you if you'd rather not set up a web server
+- **[Docsify for Open Education and Publishing](docsify/README.md)** – for you if you'd rather start without a web server, and move to Grav later
 
 ## A working example
 
