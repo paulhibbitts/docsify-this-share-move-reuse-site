@@ -2,7 +2,7 @@
 
 # Open Publishing Space
 
-<small>Part 2 of 5</small>
+<small>Part 2</small>
 
 A free, open-source website starter for open textbooks and guides, alongside a blog and other pages, built on the Grav 2 CMS. It's web-first: the website is each guide's main edition – easy to read on any device, with print and Markdown versions from the same pages.
 

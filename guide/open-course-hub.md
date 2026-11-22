@@ -2,7 +2,7 @@
 
 # Open Course Space
 
-<small>Part 3 of 7</small>
+<small>Part 3</small>
 
 Its twin, for **courses**: a free, open-source course site organized by modules – one course or many, in a single site.
 

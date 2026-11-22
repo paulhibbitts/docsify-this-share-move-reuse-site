@@ -2,7 +2,7 @@
 
 # Which One Fits You?
 
-<small>Part 6 of 7</small>
+<small>Part 6</small>
 
 All the starters and converters in this guide are **free and open-source**:
 

@@ -2,7 +2,7 @@
 
 # Open Publishing Space
 
-<small>Part 2 of 7</small>
+<small>Part 2</small>
 
 A free, open-source website starter for **open textbooks and guides**, with a blog alongside.
 

@@ -2,7 +2,7 @@
 
 # Accessibility and Privacy
 
-<small>Part 5 of 6</small>
+<small>Part 5</small>
 
 Built in, for different kinds of learners:
 

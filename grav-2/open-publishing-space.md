@@ -2,7 +2,7 @@
 
 # Open Publishing Space
 
-<small>Part 4 of 6</small>
+<small>Part 4</small>
 
 A free, open-source website starter for sharing web-first open textbooks and guides, alongside a blog and other pages – the original version of this site is built with it. Like every Grav **starter skeleton**, it comes as Grav 2, a theme and sample content, ready to upload.
 

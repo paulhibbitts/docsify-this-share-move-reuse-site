@@ -2,7 +2,7 @@
 
 # Why It Matters
 
-<small>Part 1 of 7</small>
+<small>Part 1</small>
 
 > [!TIP]
 > **Learning Objectives**

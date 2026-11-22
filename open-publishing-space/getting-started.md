@@ -2,7 +2,7 @@
 
 # Getting Started
 
-<small>Part 5 of 5</small>
+<small>Part 5</small>
 
 All the starters and converters in this guide are **free and open-source**, and you can explore the demo and try the converter with nothing to install:
 

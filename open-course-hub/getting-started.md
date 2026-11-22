@@ -2,7 +2,7 @@
 
 # Getting Started
 
-<small>Part 6 of 6</small>
+<small>Part 6</small>
 
 All the starters and converters in this guide are **free and open-source**, and you can explore the demos and try the converter with nothing to install:
 

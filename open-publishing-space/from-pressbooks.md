@@ -2,7 +2,7 @@
 
 # From Pressbooks
 
-<small>Part 3 of 5</small>
+<small>Part 3</small>
 
 Already have a book in Pressbooks? Start from it, with a free converter (in beta) – no Grav installation needed to see what carries over:
 

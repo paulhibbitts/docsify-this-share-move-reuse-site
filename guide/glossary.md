@@ -2,8 +2,6 @@
 
 # Glossary
 
-<small>Part 7 of 7</small>
-
 Terms used in this guide.
 
 **CC BY 4.0**<br>

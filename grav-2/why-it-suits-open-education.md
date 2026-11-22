@@ -2,7 +2,7 @@
 
 # Why It Suits Open Education and Publishing
 
-<small>Part 3 of 6</small>
+<small>Part 3</small>
 
 **For readers and learners:**
 

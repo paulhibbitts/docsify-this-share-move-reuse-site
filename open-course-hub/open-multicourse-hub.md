@@ -2,7 +2,7 @@
 
 # Open Course Hub and MultiCourse Hub
 
-<small>Part 3 of 6</small>
+<small>Part 3</small>
 
 Before Open Course Space, there were two course starters: **Open Course Hub 2** for one course, and **Open MultiCourse Hub 2** for several. Both are still available, for Grav 1.7 as well as Grav 2, and will soon be in maintenance mode – bug fixes will continue, but no new features are planned.
 

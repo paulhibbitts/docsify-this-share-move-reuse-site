@@ -2,7 +2,7 @@
 
 # Docsify-This
 
-<small>Part 2 of 5</small>
+<small>Part 2</small>
 
 A free, open-source web app that turns online Markdown files into styled, responsive web pages – no signup, no install. Named a finalist in the Open Infrastructure category of the 2024 Open Education Awards for Excellence.
 

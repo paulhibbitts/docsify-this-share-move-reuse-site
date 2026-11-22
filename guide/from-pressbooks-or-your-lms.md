@@ -2,7 +2,7 @@
 
 # From Pressbooks or Your LMS
 
-<small>Part 4 of 7</small>
+<small>Part 4</small>
 
 Start from what you already have, with two free converters (both in beta)[^1] – no Grav installation needed to see what carries over:
 

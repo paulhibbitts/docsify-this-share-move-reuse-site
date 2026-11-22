@@ -2,7 +2,7 @@
 
 # Docsify Starter Kits
 
-<small>Part 3 of 5</small>
+<small>Part 3</small>
 
 Free, open-source templates that turn Docsify into a ready-to-run site – hosted free on GitHub Pages, or anywhere else, with your own domain if you like.
 

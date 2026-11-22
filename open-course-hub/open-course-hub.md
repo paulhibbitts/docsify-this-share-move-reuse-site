@@ -2,7 +2,7 @@
 
 # Open Course Space
 
-<small>Part 2 of 6</small>
+<small>Part 2</small>
 
 A free, open-source website starter for **open courses**, organized by modules and built on the Grav 2 CMS – one course or many, in a single site.
 

@@ -2,7 +2,7 @@
 
 # Meet Grav 2
 
-<small>Part 2 of 6</small>
+<small>Part 2</small>
 
 [Grav](https://getgrav.org/) is a free, open-source **flat-file CMS** – a website system that stores content as plain Markdown files instead of a database. Grav 2 is its new version, now a [stable release](https://getgrav.org/blog/grav-2-stable-released).
 

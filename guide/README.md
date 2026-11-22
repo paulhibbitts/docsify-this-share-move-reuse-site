@@ -93,7 +93,7 @@ Pick the starter for your book or course – plus the trade-offs to know first.
 
 <div class="card">
 
-<small>Part 7</small>
+<p></p>
 
 <h2><a href="#/guide/glossary">Glossary</a></h2>
 

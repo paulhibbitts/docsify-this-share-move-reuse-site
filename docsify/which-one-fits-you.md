@@ -2,7 +2,7 @@
 
 # Which One Fits You?
 
-<small>Part 5 of 5</small>
+<small>Part 5</small>
 
 Everything in this guide is **free and open-source**:
 
