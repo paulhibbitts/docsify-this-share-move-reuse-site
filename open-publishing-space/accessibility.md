@@ -12,3 +12,6 @@ Built in, for different kinds of readers:
 - **For privacy:** content stays on a site you control, with no third-party tracking built in (embeds such as YouTube videos bring their own); Grav's own page view counts stay on the site, and Keep My Place remembers a reader's place in their own browser only
 
 Accessibility also depends on the content itself – headings, alt text and link text are up to the author (see [Improving the Accessibility of Your Markdown](https://www.smashingmagazine.com/2021/09/improving-accessibility-of-markdown/)).
+
+> [!NOTE]
+> **Try it now** – press Tab on your keyboard and a "Skip to main content" link should appear at the top, letting keyboard users jump past the menus to the page itself (in Safari, press Option+Tab).

@@ -16,3 +16,6 @@ Built in, for different kinds of learners:
 *Open Course Space in dark mode*
 
 Accessibility also depends on the content itself – headings, alt text and link text are up to the author (see [Improving the Accessibility of Your Markdown](https://www.smashingmagazine.com/2021/09/improving-accessibility-of-markdown/)).
+
+> [!NOTE]
+> **Try it now** – press Tab on your keyboard and a "Skip to main content" link should appear at the top, letting keyboard users jump past the menus to the page itself (in Safari, press Option+Tab).
