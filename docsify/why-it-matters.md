@@ -7,7 +7,7 @@
 > [!TIP]
 > **Learning Objectives**
 >
-> - Understand how Docsify shows Markdown as web pages, with no web server to set up
+> - See how Docsify shows Markdown as web pages, with no web server
 > - Choose between Docsify-This and a Docsify Starter Kit
 > - Know when a full Grav site is worth the move
 

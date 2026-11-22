@@ -7,9 +7,9 @@
 > [!TIP]
 > **Learning Objectives**
 >
-> - **Share:** see how one set of course pages works on any device, inside your LMS and beyond it
-> - **Move:** see how plain Markdown keeps a course open to adapt or self-host beyond your LMS, on a site you control
-> - **Reuse:** get the Markdown behind any page, with no access to the source files needed
+> - **Share:** see course pages work on any device, in your LMS and beyond
+> - **Move:** keep a course open to adapt or self-host, with plain Markdown
+> - **Reuse:** get the Markdown behind any page, no source files needed
 
 **Open beyond the LMS:** course materials often stay inside an LMS – visible only to enrolled students, and harder to reuse next term, share with colleagues or move to another platform. What if every page stayed open and portable?
 

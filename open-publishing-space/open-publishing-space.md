@@ -4,7 +4,7 @@
 
 <small>Part 2</small>
 
-A free, open-source website starter for open textbooks and guides – plus a blog and other pages – built on Grav 2. Each guide is a website first, with print and Markdown versions from the same pages.
+A free, open-source website starter for open textbooks and guides – plus a blog and other pages – built on Grav 2, a free CMS. Each guide is a website first, with print and Markdown versions from the same pages.
 
 - Guides with section cards, reading progress, Learning Objectives, OER attribution, search and **Keep My Place**
 - Present a guide like slides with the ← and → keys

@@ -7,13 +7,11 @@
 > [!TIP]
 > **Learning Objectives**
 >
-> - **Share:** see how both starters share pages designed for readers and learners
-> - **Move:** take content between tools, and bring it in from Pressbooks or an LMS
+> - **Share:** see pages designed for readers and learners, in both starters
+> - **Move:** take content between tools, or from Pressbooks or an LMS
 > - **Reuse:** get any page's Markdown, for your own purposes
 
 **Open both ways:** content that's open for readers often stays inside the platform for its authors – harder to edit elsewhere, move or keep. What if it were open for both?
-
-This guide shows two free tools that are designed for readers and learners, let authors move their content, and let anyone reuse it, with an open licence.
 
 > [!NOTE]
 > **The DIY answer: plain Markdown**

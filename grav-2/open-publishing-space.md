@@ -4,11 +4,13 @@
 
 <small>Part 4</small>
 
-A free, open-source website starter for sharing web-first open textbooks and guides, alongside a blog and other pages – the original version of this site is built with it. Like every Grav **starter skeleton**, it comes as Grav 2, a theme and sample content, ready to upload.
+A free, open-source website starter for web-first open textbooks and guides, alongside a blog and other pages – the original version of this site is built with it.
 
-- Guides with section cards, reading progress, Learning Objectives, OER attribution, search and **Keep My Place** (pick up where you left off)
+- Guides with section cards, reading progress, Learning Objectives, OER attribution, search and **Keep My Place**
 - One site can hold several guides, each with a card on a Guides page – like the original version of this site
 - Pages you can read, present like slides, embed in an LMS, print, or get as Markdown with a link on every page
+
+Like every Grav **starter skeleton**, it comes as Grav 2, a theme and sample content, ready to upload.
 
 ![An Open Publishing Space guide home page, with its cover, Start Reading button, search box and a card for each section](open-publishing-space-guide.jpg)
 
