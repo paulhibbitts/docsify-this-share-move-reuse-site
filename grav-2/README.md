@@ -90,7 +90,7 @@ Pick the starter for your book or course and explore its demo with nothing to in
 
 **[Start Reading →](grav-2/why-it-matters.md)**
 
-This work by <a href="https://hibbittsdesign.org/">Paul Hibbitts</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> – <a href="https://share-move-reuse.hibbittsdesign.org/grav-2/llms-full.txt">get it all as one Markdown file</a>. Cover photo by <a href="https://unsplash.com/@ksakai">Katz Sakai</a> on <a href="https://unsplash.com/photos/potted-jade-plant-on-windowsill-T0ldSUxU-HE">Unsplash</a>.
+This work by <a href="https://hibbittsdesign.org/">Paul Hibbitts</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> – <a href="https://github.com/paulhibbitts/docsify-this-share-move-reuse-site/tree/main/grav-2">get its Markdown files on GitHub</a>. Cover photo by <a href="https://unsplash.com/@ksakai">Katz Sakai</a> on <a href="https://unsplash.com/photos/potted-jade-plant-on-windowsill-T0ldSUxU-HE">Unsplash</a>.
 
 <!-- Hides the sidebar on this page -->
 <style>aside.sidebar, button.sidebar-toggle { display: none !important; } section.content { left: 0 !important; transition: none !important; }</style>
