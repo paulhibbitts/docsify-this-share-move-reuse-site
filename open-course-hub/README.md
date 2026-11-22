@@ -20,13 +20,11 @@ Paul Hibbitts
 
 </div>
 
-Open course materials are meant to be shared and reused, but they often live inside an LMS – which can make them harder to share beyond enrolled students, reuse next term or move elsewhere, even for the instructors who made them.
+Open course materials are meant to be shared and reused, but they often live inside an LMS – harder to share beyond enrolled students, reuse next term or move elsewhere, even for the instructors who made them.
 
 This short guide introduces Open Course Space, a free, open-source website starter for open courses organized by modules – one course or many, in a single site – plus a free converter that brings in a course from your LMS.
 
 In three words: **share** course pages designed for every learner, **move** your materials wherever you teach, and **reuse** your Markdown, term after term.
-
-This version of the guide is published with [Docsify-This](https://docsify-this.net), straight from its Markdown files – [the original](https://share-move-reuse.hibbittsdesign.org/open-course-hub) is built with Open Course Space's twin, Open Publishing Space. Want to see it as a course? Here's [this guide in Open Course Space](https://demo.hibbittsdesign.org/share-move-reuse/share-move-reuse-ocs/open-course-hub/home), with the same content.
 
 <div class="card-list card-list-sections">
 
@@ -91,6 +89,8 @@ Explore the demos and try the converter, with nothing to install – plus the li
 </div>
 
 </div>
+
+This version of the guide is published with [Docsify-This](https://docsify-this.net), straight from its Markdown files – [the original](https://share-move-reuse.hibbittsdesign.org/open-course-hub) is built with Open Course Space's twin, Open Publishing Space. Want to see it as a course? Here's [this guide in Open Course Space](https://demo.hibbittsdesign.org/share-move-reuse/share-move-reuse-ocs/open-course-hub/home), with the same content.
 
 > [!TIP]
 > **Built on Grav 2:** the new version of [Grav](https://getgrav.org/), a free, open-source content management system (CMS) – with a modern Admin 2 panel rebuilt from scratch, a Markdown version of every page and faster loading pages, still just files with no database.
