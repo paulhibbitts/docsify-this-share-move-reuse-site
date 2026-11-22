@@ -95,7 +95,7 @@ Explore the demos and try the converter, with nothing to install – plus the li
 
 </div>
 
-[Start Reading](open-course-hub/why-it-matters.md ":class=button :class=primary")
+**[Start Reading →](open-course-hub/why-it-matters.md)**
 
 > [!NOTE]
 > **Reuse this guide** – it's CC BY 4.0, so copy it, adapt it and share it, with credit: [get it all as one Markdown file](https://share-move-reuse.hibbittsdesign.org/open-course-hub/llms-full.txt).

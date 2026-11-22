@@ -103,7 +103,7 @@ Terms used in this guide, from CC BY 4.0 to shortcodes.
 
 </div>
 
-[Start Reading](guide/why-it-matters.md ":class=button :class=primary")
+**[Start Reading →](guide/why-it-matters.md)**
 
 > [!NOTE]
 > **Reuse this guide** – it's CC BY 4.0, so copy it, adapt it and share it, with credit: [get it all as one Markdown file](https://share-move-reuse.hibbittsdesign.org/guide/llms-full.txt).
