@@ -88,6 +88,8 @@ Pick the starter for your book or course and explore its demo with nothing to in
 
 </div>
 
+[Start Reading](grav-2/why-it-matters.md ":class=button :class=primary")
+
 > [!NOTE]
 > **Reuse this guide** – it's CC BY 4.0, so copy it, adapt it and share it, with credit: [get it all as one Markdown file](https://share-move-reuse.hibbittsdesign.org/grav-2/llms-full.txt).
 

@@ -79,6 +79,8 @@ Pick a starting point – plus the trade-offs to know first.
 
 </div>
 
+[Start Reading](docsify/why-it-matters.md ":class=button :class=primary")
+
 This work by <a href="https://hibbittsdesign.org/">Paul Hibbitts</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. Cover photo by <a href="https://unsplash.com/@du_sable_et_du_vent">Baptiste Riethmann</a> on <a href="https://unsplash.com/photos/vintage-green-typewriter-with-blank-paper-jOQj5RQVmvg">Unsplash</a>.
 
 <!-- Hides the sidebar on this page -->

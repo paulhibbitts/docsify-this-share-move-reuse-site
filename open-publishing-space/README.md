@@ -85,6 +85,8 @@ Explore the demo and try the converter, with nothing to install – plus the lim
 
 </div>
 
+[Start Reading](open-publishing-space/why-it-matters.md ":class=button :class=primary")
+
 Prepared for the ETUG Fall Workshop 2026.
 
 > [!NOTE]
