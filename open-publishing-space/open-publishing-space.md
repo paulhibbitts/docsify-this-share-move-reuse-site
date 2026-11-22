@@ -4,12 +4,12 @@
 
 <small>Part 2</small>
 
-A free, open-source website starter for open textbooks and guides, alongside a blog and other pages, built on the Grav 2 CMS. It's web-first: the website is each guide's main edition – easy to read on any device, with print and Markdown versions from the same pages.
+A free, open-source website starter for open textbooks and guides – plus a blog and other pages – built on Grav 2. Each guide is a website first, with print and Markdown versions from the same pages.
 
-- Guides with section cards, reading progress, Learning Objectives, OER attribution, search and **Keep My Place** (pick up where you left off, even partway down a page)
+- Guides with section cards, reading progress, Learning Objectives, OER attribution, search and **Keep My Place**
 - Present a guide like slides with the ← and → keys
 - A "This page as Markdown" link on every page – for you to reuse, and anyone else too with an open licence
-- One site can hold several guides, each with a card on a Guides page and its own pages in the menu (like this guide's Topics and Resources) – plus site pages like [About](about/README.md)
+- One site can hold several guides, plus site pages like [About](about/README.md)
 - Diagrams and math written as plain text, with the free [Mermaid](https://hibbittsdesign.org/cost-free-grav-projects.html#mermaid-plugin) and [LaTeX Math](https://hibbittsdesign.org/cost-free-grav-projects.html#latex-math-plugin) plugins – like $E = mc^2$, or this diagram:
 
 ```mermaid

@@ -7,9 +7,9 @@
 > [!TIP]
 > **Learning Objectives**
 >
-> - **Share:** see how one set of pages works on any device, in an LMS and in print
-> - **Move:** see how plain Markdown keeps a guide open to adapt or self-host elsewhere, on a site you control
-> - **Reuse:** get the Markdown behind any page, with no access to the source files needed
+> - **Share:** one set of pages on any device, in an LMS and in print
+> - **Move:** plain Markdown keeps a guide open to adapt or self-host
+> - **Reuse:** get the Markdown behind any page, no source files needed
 
 **Open for reuse:** open textbooks and guides are meant to be reused and remixed (the [5Rs](https://opencontent.org/definition/) of open content), but they often live inside a single platform – harder to adapt, move or self-host elsewhere. What if every page stayed portable?
 
