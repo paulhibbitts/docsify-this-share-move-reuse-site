@@ -6,8 +6,6 @@ Five short guides from the same source – not sure which? Start with the overvi
 
 **Share, Move, Reuse:** share pages designed for all kinds of readers · your content moves wherever you go · you can always reuse your Markdown – and so can others, if you choose.
 
-Each guide has its own search box, on its reading pages.
-
 <div class="card-list card-list-guides">
 
 <div class="card">
