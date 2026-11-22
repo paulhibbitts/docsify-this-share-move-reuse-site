@@ -89,10 +89,7 @@ This version of the guide is published with [Docsify-This](https://docsify-this.
 
 Prepared for the ETUG Fall Workshop 2026.
 
-> [!NOTE]
-> **Reuse this guide** – it's CC BY 4.0, so copy it, adapt it and share it, with credit: [get it all as one Markdown file](https://share-move-reuse.hibbittsdesign.org/open-publishing-space/llms-full.txt).
-
-This work by <a href="https://hibbittsdesign.org/">Paul Hibbitts</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. Cover photo by <a href="https://unsplash.com/@michaela_st">Michaela St</a> on <a href="https://unsplash.com/photos/an-open-book-flying-in-the-air-L23ydbfeO2s">Unsplash</a>.
+This work by <a href="https://hibbittsdesign.org/">Paul Hibbitts</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> – <a href="https://share-move-reuse.hibbittsdesign.org/open-publishing-space/llms-full.txt">get it all as one Markdown file</a>. Cover photo by <a href="https://unsplash.com/@michaela_st">Michaela St</a> on <a href="https://unsplash.com/photos/an-open-book-flying-in-the-air-L23ydbfeO2s">Unsplash</a>.
 
 <!-- Hides the sidebar on this page -->
 <style>aside.sidebar, button.sidebar-toggle { display: none !important; } section.content { left: 0 !important; transition: none !important; }</style>
