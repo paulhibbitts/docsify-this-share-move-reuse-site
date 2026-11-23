@@ -28,7 +28,7 @@ Many platforms can make textbooks and courses open for their readers and learner
 
 <small>Part 1</small>
 
-## [Why It Matters](/guide/why-it-matters.md)
+## [Why It Matters](/guide/why-it-matters.md) <!-- {docsify-ignore} -->
 
 Pages designed for readers and learners, content authors can move between tools, and the raw Markdown for anyone to reuse.
 
@@ -38,7 +38,7 @@ Pages designed for readers and learners, content authors can move between tools,
 
 <small>Part 2</small>
 
-## [Open Publishing Space](/guide/open-publishing-space.md)
+## [Open Publishing Space](/guide/open-publishing-space.md) <!-- {docsify-ignore} -->
 
 Open textbooks and guides as websites, with the Markdown behind every page a click away.
 
@@ -48,7 +48,7 @@ Open textbooks and guides as websites, with the Markdown behind every page a cli
 
 <small>Part 3</small>
 
-## [Open Course Space](/guide/open-course-hub.md)
+## [Open Course Space](/guide/open-course-hub.md) <!-- {docsify-ignore} -->
 
 An open course site organized by modules – one course or many – ready to embed in your LMS.
 
@@ -58,7 +58,7 @@ An open course site organized by modules – one course or many – ready to emb
 
 <small>Part 4</small>
 
-## [From Pressbooks or Your LMS](/guide/from-pressbooks-or-your-lms.md)
+## [From Pressbooks or Your LMS](/guide/from-pressbooks-or-your-lms.md) <!-- {docsify-ignore} -->
 
 Free converters turn an existing book or course into Markdown pages for either site.
 
@@ -68,7 +68,7 @@ Free converters turn an existing book or course into Markdown pages for either s
 
 <small>Part 5</small>
 
-## [Accessibility and Privacy](/guide/accessibility.md)
+## [Accessibility and Privacy](/guide/accessibility.md) <!-- {docsify-ignore} -->
 
 Keyboard, screen reader and reading comfort features, built in – with content and reader data on a site you control.
 
@@ -78,7 +78,7 @@ Keyboard, screen reader and reading comfort features, built in – with content 
 
 <small>Part 6</small>
 
-## [Which One Fits You?](/guide/which-one-fits-you.md)
+## [Which One Fits You?](/guide/which-one-fits-you.md) <!-- {docsify-ignore} -->
 
 Pick the starter for your book or course – plus the trade-offs to know first.
 
