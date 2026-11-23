@@ -16,7 +16,7 @@ Five short guides from the same source – not sure which? Start with the overvi
 
 A DIY Path from Plain Markdown, Pressbooks or Your LMS
 
-<small>Paul Hibbitts<br>First Edition, 2026 · Updated Nov 20, 2026</small>
+<small>Paul Hibbitts<br>First Edition, 2026 · Updated Nov 23, 2026</small>
 
 </div>
 
@@ -28,7 +28,7 @@ A DIY Path from Plain Markdown, Pressbooks or Your LMS
 
 A DIY Path from Plain Markdown or Pressbooks
 
-<small>Paul Hibbitts<br>First Edition, 2026 · Updated Nov 20, 2026</small>
+<small>Paul Hibbitts<br>First Edition, 2026 · Updated Nov 23, 2026</small>
 
 </div>
 
@@ -40,7 +40,7 @@ A DIY Path from Plain Markdown or Pressbooks
 
 A DIY Path from Plain Markdown or Your LMS
 
-<small>Paul Hibbitts<br>First Edition, 2026 · Updated Nov 20, 2026</small>
+<small>Paul Hibbitts<br>First Edition, 2026 · Updated Nov 23, 2026</small>
 
 </div>
 
@@ -52,7 +52,7 @@ A DIY Path from Plain Markdown or Your LMS
 
 A DIY Platform You Own, in Plain Markdown
 
-<small>Paul Hibbitts<br>First Edition, 2026 · Updated Nov 20, 2026</small>
+<small>Paul Hibbitts<br>First Edition, 2026 · Updated Nov 23, 2026</small>
 
 </div>
 
@@ -64,7 +64,7 @@ A DIY Platform You Own, in Plain Markdown
 
 Markdown on the Web, with No Web Server Needed
 
-<small>Paul Hibbitts<br>First Edition, 2026 · Updated Nov 20, 2026</small>
+<small>Paul Hibbitts<br>First Edition, 2026 · Updated Nov 23, 2026</small>
 
 </div>
 
