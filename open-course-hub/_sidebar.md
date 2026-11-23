@@ -4,5 +4,4 @@
 - [Open Course Space](open-course-hub/open-course-hub.md)
 - [From Your LMS](open-course-hub/from-your-lms.md)
 - [Accessibility and Privacy](open-course-hub/accessibility-and-privacy.md)
-- [Open Course Hub and MultiCourse Hub](open-course-hub/open-multicourse-hub.md)
 - [Getting Started](open-course-hub/getting-started.md)

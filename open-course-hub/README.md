@@ -70,16 +70,6 @@ Keyboard, screen reader and reading comfort features, built in – with content 
 
 <small>Part 5</small>
 
-<h2><a href="#/open-course-hub/open-multicourse-hub">Open Course Hub and MultiCourse Hub</a></h2>
-
-The earlier course starters – still available, including for Grav 1.7 – and how their courses move to Open Course Space.
-
-</div>
-
-<div class="card">
-
-<small>Part 6</small>
-
 <h2><a href="#/open-course-hub/getting-started">Getting Started</a></h2>
 
 Explore the demos and try the converter, with nothing to install – plus the limits to know first.
