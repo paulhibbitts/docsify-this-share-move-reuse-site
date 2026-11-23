@@ -72,7 +72,7 @@ Free converters turn an existing book or course into Markdown pages for either s
 
 <h2><a href="#/guide/accessibility">Accessibility and Privacy</a></h2>
 
-Keyboard, screen reader and reading comfort features, built in.
+Keyboard, screen reader and reading comfort features, built in – with content and reader data on a site you control.
 
 </div>
 
