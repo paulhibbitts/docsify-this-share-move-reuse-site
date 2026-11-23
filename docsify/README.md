@@ -81,7 +81,7 @@ Pick a starting point – plus the trade-offs to know first.
 
 **[Start Reading →](/docsify/why-it-matters.md)**
 
-This work by <a href="https://hibbittsdesign.org/">Paul Hibbitts</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. Cover photo by <a href="https://unsplash.com/@du_sable_et_du_vent">Baptiste Riethmann</a> on <a href="https://unsplash.com/photos/vintage-green-typewriter-with-blank-paper-jOQj5RQVmvg">Unsplash</a>.
+This work by <a href="https://hibbittsdesign.org/">Paul Hibbitts</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> – <a href="https://github.com/paulhibbitts/docsify-this-share-move-reuse-site/tree/main/docsify">get its Markdown files on GitHub</a>, where you can also read it. Cover photo by <a href="https://unsplash.com/@du_sable_et_du_vent">Baptiste Riethmann</a> on <a href="https://unsplash.com/photos/vintage-green-typewriter-with-blank-paper-jOQj5RQVmvg">Unsplash</a>.
 
 <!-- Hides the sidebar on this page -->
 <style>aside.sidebar, button.sidebar-toggle { display: none !important; } section.content { left: 0 !important; transition: none !important; }</style>

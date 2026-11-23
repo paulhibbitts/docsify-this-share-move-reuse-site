@@ -93,7 +93,7 @@ This version of the guide is published with [Docsify-This](https://docsify-this.
 
 **[Start Reading →](/guide/why-it-matters.md)**
 
-This work by <a href="https://hibbittsdesign.org/">Paul Hibbitts</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> – <a href="https://github.com/paulhibbitts/docsify-this-share-move-reuse-site/tree/main/guide">get its Markdown files on GitHub</a>. Cover photo by <a href="https://unsplash.com/@chris_robert">chris robert</a> on <a href="https://unsplash.com/photos/P189JexXzQY">Unsplash</a>.
+This work by <a href="https://hibbittsdesign.org/">Paul Hibbitts</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> – <a href="https://github.com/paulhibbitts/docsify-this-share-move-reuse-site/tree/main/guide">get its Markdown files on GitHub</a>, where you can also read it. Cover photo by <a href="https://unsplash.com/@chris_robert">chris robert</a> on <a href="https://unsplash.com/photos/P189JexXzQY">Unsplash</a>.
 
 <!-- Hides the sidebar on this page -->
 <style>aside.sidebar, button.sidebar-toggle { display: none !important; } section.content { left: 0 !important; transition: none !important; }</style>
