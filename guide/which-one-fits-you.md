@@ -11,8 +11,6 @@ All the starters and converters in this guide are **free and open-source**:
 - **"I already have a Pressbooks book or LMS course"** → the [Pressbooks](https://grav-pressbooks-converter.hibbittsdesign.org/) or [Common Cartridge](https://grav-common-cartridge-converter.hibbittsdesign.org/) Converter
 - **"No web server? Start with Docsify"** → [Docsify-This](https://docsify-this.net/) or a [Docsify Starter Kit](https://hibbittsdesign.org/docsify-starter-kits.html), then the [Grav Docsify Bridge](https://grav-docsify-bridge.hibbittsdesign.org/) when you're ready for a full site – see the [Docsify](docsify/README.md) guide
 
-Both starters are edited in the browser with Grav's Admin 2 panel, or as Markdown files with any editor or via Git.
-
 
 **Explore it in 5 minutes,** on [the original version of this page](https://share-move-reuse.hibbittsdesign.org/guide/which-one-fits-you):
 
@@ -33,7 +31,7 @@ Then set up your own site:
 **See it moved:** this same guide also runs, with the same content, on [the Quark 2 theme](https://share-move-reuse.hibbittsdesign.org/guide) and [the classic Quark theme](https://demo.hibbittsdesign.org/share-move-reuse/share-move-reuse-ops-quark/guide), as an [Open Course Space course](https://demo.hibbittsdesign.org/share-move-reuse/share-move-reuse-ocs/guide), and on Grav Premium Helios as an [open reader](https://demo.hibbittsdesign.org/share-move-reuse/share-move-reuse-hor/guide) and a [course hub](https://demo.hibbittsdesign.org/share-move-reuse/share-move-reuse-hch/guide).
 
 > [!IMPORTANT]
-> **Good to know:** publishing as a website keeps things simple, but there's no one-click ebook (EPUB or formatted PDF – pages print cleanly from the browser), you'll need a PHP web host (PHP 8.3 or newer, no database)[^1], colleagues new to Markdown may need a little help to start, and Grav extras like definition and objectives boxes are shortcodes that other tools would need converted. If you ever lose access to a web host, the free [Grav Docsify Bridge](https://grav-docsify-bridge.hibbittsdesign.org/) turns your guides or courses into a Docsify-This site, with no web server needed.
+> **Good to know:** publishing as a website keeps things simple, but there's no one-click ebook (EPUB or formatted PDF – pages print cleanly from the browser), you'll need a PHP web host (no database)[^1], colleagues new to Markdown may need a little help to start, and Grav extras like definition and objectives boxes are shortcodes that other tools would need converted. If you ever lose access to a web host, the free [Grav Docsify Bridge](https://grav-docsify-bridge.hibbittsdesign.org/) turns your guides or courses into a Docsify-This site, with no web server needed.
 
 With thanks to the authors of the openly licensed book and course used as examples, for sharing their work in the open 🙏🏻
 
