@@ -28,7 +28,7 @@ Many platforms can make textbooks and courses open for their readers and learner
 
 <small>Part 1</small>
 
-<h2><a href="#/guide/why-it-matters">Why It Matters</a></h2>
+## [Why It Matters](/guide/why-it-matters.md)
 
 Pages designed for readers and learners, content authors can move between tools, and the raw Markdown for anyone to reuse.
 
@@ -38,7 +38,7 @@ Pages designed for readers and learners, content authors can move between tools,
 
 <small>Part 2</small>
 
-<h2><a href="#/guide/open-publishing-space">Open Publishing Space</a></h2>
+## [Open Publishing Space](/guide/open-publishing-space.md)
 
 Open textbooks and guides as websites, with the Markdown behind every page a click away.
 
@@ -48,7 +48,7 @@ Open textbooks and guides as websites, with the Markdown behind every page a cli
 
 <small>Part 3</small>
 
-<h2><a href="#/guide/open-course-hub">Open Course Space</a></h2>
+## [Open Course Space](/guide/open-course-hub.md)
 
 An open course site organized by modules – one course or many – ready to embed in your LMS.
 
@@ -58,7 +58,7 @@ An open course site organized by modules – one course or many – ready to emb
 
 <small>Part 4</small>
 
-<h2><a href="#/guide/from-pressbooks-or-your-lms">From Pressbooks or Your LMS</a></h2>
+## [From Pressbooks or Your LMS](/guide/from-pressbooks-or-your-lms.md)
 
 Free converters turn an existing book or course into Markdown pages for either site.
 
@@ -68,7 +68,7 @@ Free converters turn an existing book or course into Markdown pages for either s
 
 <small>Part 5</small>
 
-<h2><a href="#/guide/accessibility">Accessibility and Privacy</a></h2>
+## [Accessibility and Privacy](/guide/accessibility.md)
 
 Keyboard, screen reader and reading comfort features, built in – with content and reader data on a site you control.
 
@@ -78,7 +78,7 @@ Keyboard, screen reader and reading comfort features, built in – with content 
 
 <small>Part 6</small>
 
-<h2><a href="#/guide/which-one-fits-you">Which One Fits You?</a></h2>
+## [Which One Fits You?](/guide/which-one-fits-you.md)
 
 Pick the starter for your book or course – plus the trade-offs to know first.
 
