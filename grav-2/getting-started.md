@@ -7,7 +7,7 @@
 All the starters and converters in this guide are **free and open-source**, and you can explore the demos, try Admin 2 and try the converters with nothing to install:
 
 - **"I want to share a textbook or guide"** → Open Publishing Space: demo with [one guide](https://demo.hibbittsdesign.org/grav-open-publishing-quark2/) or [several guides](https://demo.hibbittsdesign.org/variants/grav-open-publishing-quark2-guides/) · [download](https://getgrav.org/downloads/skeletons#open-publishing-space-site)
-- **"I want a web home for my course – or several"** → Open Course Space: [demo](https://demo.hibbittsdesign.org/grav-open-course-space/) · [download](https://github.com/hibbitts-design/grav-skeleton-open-course-space/releases/latest) (an early preview)
+- **"I want a web home for my course – or several"** → Open Course Space: [demo](https://demo.hibbittsdesign.org/grav-open-course-space/) · [download](https://getgrav.org/downloads/skeletons#open-course-space-site) (an early preview)
 - **"I want to start using Markdown, with no web server"** → [Docsify-This](https://docsify-this.net/), starting from its [Guide Site](https://github.com/hibbitts-design/docsify-this-guide-site) or [Course Site](https://github.com/hibbitts-design/docsify-this-multiple-page-course-site) template, then the [Grav Docsify Bridge](https://grav-docsify-bridge.hibbittsdesign.org/) when you're ready for a full site – see the [Docsify](docsify/README.md) guide
 - **"I already have a Pressbooks book or LMS course"** → the [Pressbooks](https://grav-pressbooks-converter.hibbittsdesign.org/) or [Common Cartridge](https://grav-common-cartridge-converter.hibbittsdesign.org/) Converter
 
