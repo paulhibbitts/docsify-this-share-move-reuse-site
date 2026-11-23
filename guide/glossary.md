@@ -24,3 +24,9 @@ A book publishing platform built on WordPress, widely used for open textbooks.
 
 **Shortcode**<br>
 A short tag in square brackets that Grav turns into a box, an embed or another feature when it shows a page.
+
+**Starter skeleton**<br>
+A ready-to-upload Grav download: Grav 2, a theme and sample content, so a new site starts from a working example.
+
+<!-- Hides the sidebar on this page -->
+<style>aside.sidebar, button.sidebar-toggle { display: none !important; } section.content { left: 0 !important; transition: none !important; }</style>
