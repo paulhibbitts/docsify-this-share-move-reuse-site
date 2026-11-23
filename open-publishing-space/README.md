@@ -14,7 +14,7 @@ Paul Hibbitts
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/ ":class=navpill")
 
-[Start Reading](open-publishing-space/why-it-matters.md ":class=button :class=primary")
+[Start Reading](/open-publishing-space/why-it-matters.md ":class=button :class=primary")
 
 </div>
 
@@ -30,7 +30,7 @@ This short guide introduces Open Publishing Space, a free, open-source website s
 
 <small>Part 1</small>
 
-<h2><a href="#/open-publishing-space/why-it-matters">Why It Matters</a></h2>
+## [Why It Matters](/open-publishing-space/why-it-matters.md) <!-- {docsify-ignore} -->
 
 Plain Markdown keeps open content portable, under your control, and easy for anyone to reuse.
 
@@ -40,7 +40,7 @@ Plain Markdown keeps open content portable, under your control, and easy for any
 
 <small>Part 2</small>
 
-<h2><a href="#/open-publishing-space/open-publishing-space">Open Publishing Space</a></h2>
+## [Open Publishing Space](/open-publishing-space/open-publishing-space.md) <!-- {docsify-ignore} -->
 
 Open textbooks and guides as websites, with the Markdown behind every page a click away.
 
@@ -50,7 +50,7 @@ Open textbooks and guides as websites, with the Markdown behind every page a cli
 
 <small>Part 3</small>
 
-<h2><a href="#/open-publishing-space/from-pressbooks">From Pressbooks</a></h2>
+## [From Pressbooks](/open-publishing-space/from-pressbooks.md) <!-- {docsify-ignore} -->
 
 A free converter turns an existing Pressbooks book into Markdown pages for your site.
 
@@ -60,7 +60,7 @@ A free converter turns an existing Pressbooks book into Markdown pages for your 
 
 <small>Part 4</small>
 
-<h2><a href="#/open-publishing-space/accessibility">Accessibility and Privacy</a></h2>
+## [Accessibility and Privacy](/open-publishing-space/accessibility.md) <!-- {docsify-ignore} -->
 
 Keyboard, screen reader and reading comfort features, built in – with content and reader data on a site you control.
 
@@ -70,7 +70,7 @@ Keyboard, screen reader and reading comfort features, built in – with content 
 
 <small>Part 5</small>
 
-<h2><a href="#/open-publishing-space/getting-started">Getting Started</a></h2>
+## [Getting Started](/open-publishing-space/getting-started.md) <!-- {docsify-ignore} -->
 
 Explore the demo and try the converter, with nothing to install – plus the limits to know first.
 
@@ -83,7 +83,7 @@ This version of the guide is published with [Docsify-This](https://docsify-this.
 > [!TIP]
 > **Built on Grav 2:** the new version of [Grav](https://getgrav.org/), a free, open-source content management system (CMS) – with a modern Admin 2 panel rebuilt from scratch, a Markdown version of every page and faster loading pages, still just files with no database.
 
-**[Start Reading →](open-publishing-space/why-it-matters.md)**
+**[Start Reading →](/open-publishing-space/why-it-matters.md)**
 
 Prepared for the ETUG Fall Workshop 2026.
 

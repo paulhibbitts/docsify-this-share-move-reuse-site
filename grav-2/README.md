@@ -14,7 +14,7 @@ Paul Hibbitts
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/ ":class=navpill")
 
-[Start Reading](grav-2/why-it-matters.md ":class=button :class=primary")
+[Start Reading](/grav-2/why-it-matters.md ":class=button :class=primary")
 
 </div>
 
@@ -30,7 +30,7 @@ You'll see why it suits open education and publishing, the free starter skeleton
 
 <small>Part 1</small>
 
-<h2><a href="#/grav-2/why-it-matters">Why It Matters</a></h2>
+## [Why It Matters](/grav-2/why-it-matters.md) <!-- {docsify-ignore} -->
 
 Open content that is also open for its authors – to edit, move and keep.
 
@@ -40,7 +40,7 @@ Open content that is also open for its authors – to edit, move and keep.
 
 <small>Part 2</small>
 
-<h2><a href="#/grav-2/meet-grav-2">Meet Grav 2</a></h2>
+## [Meet Grav 2](/grav-2/meet-grav-2.md) <!-- {docsify-ignore} -->
 
 A free, open-source flat-file CMS: Markdown files in, a website out – no database.
 
@@ -50,7 +50,7 @@ A free, open-source flat-file CMS: Markdown files in, a website out – no datab
 
 <small>Part 3</small>
 
-<h2><a href="#/grav-2/why-it-suits-open-education">Why It Suits Open Education and Publishing</a></h2>
+## [Why It Suits Open Education and Publishing](/grav-2/why-it-suits-open-education.md) <!-- {docsify-ignore} -->
 
 What Grav 2 offers readers and learners, authors, and whoever runs the site – and how it compares.
 
@@ -60,7 +60,7 @@ What Grav 2 offers readers and learners, authors, and whoever runs the site – 
 
 <small>Part 4</small>
 
-<h2><a href="#/grav-2/open-publishing-space">Open Publishing Space</a></h2>
+## [Open Publishing Space](/grav-2/open-publishing-space.md) <!-- {docsify-ignore} -->
 
 A free starter for open textbooks and guides – plus converters to bring in what you already have.
 
@@ -70,7 +70,7 @@ A free starter for open textbooks and guides – plus converters to bring in wha
 
 <small>Part 5</small>
 
-<h2><a href="#/grav-2/open-course-hub">Open Course Space</a></h2>
+## [Open Course Space](/grav-2/open-course-hub.md) <!-- {docsify-ignore} -->
 
 Open Publishing Space's twin, for open courses – plus a converter to bring in an LMS course.
 
@@ -80,7 +80,7 @@ Open Publishing Space's twin, for open courses – plus a converter to bring in 
 
 <small>Part 6</small>
 
-<h2><a href="#/grav-2/getting-started">Getting Started</a></h2>
+## [Getting Started](/grav-2/getting-started.md) <!-- {docsify-ignore} -->
 
 Pick the starter for your book or course and explore its demo with nothing to install – plus the limits to know first.
 
@@ -88,7 +88,7 @@ Pick the starter for your book or course and explore its demo with nothing to in
 
 </div>
 
-**[Start Reading →](grav-2/why-it-matters.md)**
+**[Start Reading →](/grav-2/why-it-matters.md)**
 
 This work by <a href="https://hibbittsdesign.org/">Paul Hibbitts</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> – <a href="https://github.com/paulhibbitts/docsify-this-share-move-reuse-site/tree/main/grav-2">get its Markdown files on GitHub</a>. Cover photo by <a href="https://unsplash.com/@ksakai">Katz Sakai</a> on <a href="https://unsplash.com/photos/potted-jade-plant-on-windowsill-T0ldSUxU-HE">Unsplash</a>.
 

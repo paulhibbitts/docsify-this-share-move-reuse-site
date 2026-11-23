@@ -14,7 +14,7 @@ Paul Hibbitts
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/ ":class=navpill")
 
-[Start Reading](guide/why-it-matters.md ":class=button :class=primary")
+[Start Reading](/guide/why-it-matters.md ":class=button :class=primary")
 
 </div>
 
@@ -91,7 +91,7 @@ This version of the guide is published with [Docsify-This](https://docsify-this.
 > [!TIP]
 > **Built on Grav 2:** the new version of [Grav](https://getgrav.org/), a free, open-source content management system (CMS) – with a modern Admin 2 panel rebuilt from scratch, a Markdown version of every page and faster loading pages, still just files with no database.
 
-**[Start Reading →](guide/why-it-matters.md)**
+**[Start Reading →](/guide/why-it-matters.md)**
 
 This work by <a href="https://hibbittsdesign.org/">Paul Hibbitts</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> – <a href="https://github.com/paulhibbitts/docsify-this-share-move-reuse-site/tree/main/guide">get its Markdown files on GitHub</a>. Cover photo by <a href="https://unsplash.com/@chris_robert">chris robert</a> on <a href="https://unsplash.com/photos/P189JexXzQY">Unsplash</a>.
 

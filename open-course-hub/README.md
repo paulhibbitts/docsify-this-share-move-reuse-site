@@ -14,7 +14,7 @@ Paul Hibbitts
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/ ":class=navpill")
 
-[Start Reading](open-course-hub/why-it-matters.md ":class=button :class=primary")
+[Start Reading](/open-course-hub/why-it-matters.md ":class=button :class=primary")
 
 </div>
 
@@ -30,7 +30,7 @@ This short guide introduces Open Course Space, a free, open-source website start
 
 <small>Part 1</small>
 
-<h2><a href="#/open-course-hub/why-it-matters">Why It Matters</a></h2>
+## [Why It Matters](/open-course-hub/why-it-matters.md) <!-- {docsify-ignore} -->
 
 Plain Markdown keeps open course materials portable, under your control, and easy for anyone to reuse.
 
@@ -40,7 +40,7 @@ Plain Markdown keeps open course materials portable, under your control, and eas
 
 <small>Part 2</small>
 
-<h2><a href="#/open-course-hub/open-course-hub">Open Course Space</a></h2>
+## [Open Course Space](/open-course-hub/open-course-hub.md) <!-- {docsify-ignore} -->
 
 One course or many in a single site, organized by modules and ready to embed in your LMS.
 
@@ -50,7 +50,7 @@ One course or many in a single site, organized by modules and ready to embed in 
 
 <small>Part 3</small>
 
-<h2><a href="#/open-course-hub/from-your-lms">From Your LMS</a></h2>
+## [From Your LMS](/open-course-hub/from-your-lms.md) <!-- {docsify-ignore} -->
 
 A free converter turns an existing LMS course into Markdown pages for your course site.
 
@@ -60,7 +60,7 @@ A free converter turns an existing LMS course into Markdown pages for your cours
 
 <small>Part 4</small>
 
-<h2><a href="#/open-course-hub/accessibility-and-privacy">Accessibility and Privacy</a></h2>
+## [Accessibility and Privacy](/open-course-hub/accessibility-and-privacy.md) <!-- {docsify-ignore} -->
 
 Keyboard, screen reader and reading comfort features, built in – with content and learner data on a site you control.
 
@@ -70,7 +70,7 @@ Keyboard, screen reader and reading comfort features, built in – with content 
 
 <small>Part 5</small>
 
-<h2><a href="#/open-course-hub/getting-started">Getting Started</a></h2>
+## [Getting Started](/open-course-hub/getting-started.md) <!-- {docsify-ignore} -->
 
 Explore the demos and try the converter, with nothing to install – plus the limits to know first.
 
@@ -83,7 +83,7 @@ This version of the guide is published with [Docsify-This](https://docsify-this.
 > [!TIP]
 > **Built on Grav 2:** the new version of [Grav](https://getgrav.org/), a free, open-source content management system (CMS) – with a modern Admin 2 panel rebuilt from scratch, a Markdown version of every page and faster loading pages, still just files with no database.
 
-**[Start Reading →](open-course-hub/why-it-matters.md)**
+**[Start Reading →](/open-course-hub/why-it-matters.md)**
 
 This work by <a href="https://hibbittsdesign.org/">Paul Hibbitts</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> – <a href="https://github.com/paulhibbitts/docsify-this-share-move-reuse-site/tree/main/open-course-hub">get its Markdown files on GitHub</a>. Cover photo by <a href="https://unsplash.com/@cbarbalis">Chris Barbalis</a> on <a href="https://unsplash.com/photos/female-beach-cruiser-bike-leaning-on-yellow-painted-wall-Lpqg7ypu2B4">Unsplash</a>.
 

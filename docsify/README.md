@@ -14,7 +14,7 @@ Paul Hibbitts
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/ ":class=navpill")
 
-[Start Reading](docsify/why-it-matters.md ":class=button :class=primary")
+[Start Reading](/docsify/why-it-matters.md ":class=button :class=primary")
 
 </div>
 
@@ -28,7 +28,7 @@ Many educators want to share their Markdown as web pages, but a web server, a CM
 
 <small>Part 1</small>
 
-<h2><a href="#/docsify/why-it-matters">Why It Matters</a></h2>
+## [Why It Matters](/docsify/why-it-matters.md) <!-- {docsify-ignore} -->
 
 Your Markdown on the web, with no web server to set up or look after.
 
@@ -38,7 +38,7 @@ Your Markdown on the web, with no web server to set up or look after.
 
 <small>Part 2</small>
 
-<h2><a href="#/docsify/docsify-this">Docsify-This</a></h2>
+## [Docsify-This](/docsify/docsify-this.md) <!-- {docsify-ignore} -->
 
 Turn any public Markdown file into a styled web page, instantly.
 
@@ -48,7 +48,7 @@ Turn any public Markdown file into a styled web page, instantly.
 
 <small>Part 3</small>
 
-<h2><a href="#/docsify/starter-kits">Docsify Starter Kits</a></h2>
+## [Docsify Starter Kits](/docsify/starter-kits.md) <!-- {docsify-ignore} -->
 
 Your own open course or publishing site on GitHub Pages, with no build step.
 
@@ -58,7 +58,7 @@ Your own open course or publishing site on GitHub Pages, with no build step.
 
 <small>Part 4</small>
 
-<h2><a href="#/docsify/moving-to-grav">Moving to Grav, and Back</a></h2>
+## [Moving to Grav, and Back](/docsify/moving-to-grav.md) <!-- {docsify-ignore} -->
 
 When a full site is worth it – and how your Markdown gets there.
 
@@ -68,7 +68,7 @@ When a full site is worth it – and how your Markdown gets there.
 
 <small>Part 5</small>
 
-<h2><a href="#/docsify/which-one-fits-you">Which One Fits You?</a></h2>
+## [Which One Fits You?](/docsify/which-one-fits-you.md) <!-- {docsify-ignore} -->
 
 Pick a starting point – plus the trade-offs to know first.
 
@@ -79,7 +79,7 @@ Pick a starting point – plus the trade-offs to know first.
 > [!TIP]
 > **Built on Docsify:** a free, open-source tool (over 30,000 stars on GitHub) that turns Markdown files into web pages right in the browser – no build step and no database, with your files hosted anywhere public, such as GitHub.
 
-**[Start Reading →](docsify/why-it-matters.md)**
+**[Start Reading →](/docsify/why-it-matters.md)**
 
 This work by <a href="https://hibbittsdesign.org/">Paul Hibbitts</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. Cover photo by <a href="https://unsplash.com/@du_sable_et_du_vent">Baptiste Riethmann</a> on <a href="https://unsplash.com/photos/vintage-green-typewriter-with-blank-paper-jOQj5RQVmvg">Unsplash</a>.
 
