@@ -1,4 +1,4 @@
-[← Open Textbooks and Guides](open-publishing-space/README.md)
+[← Open Textbooks and Guides](/open-publishing-space/README.md)
 
 # Why It Matters
 

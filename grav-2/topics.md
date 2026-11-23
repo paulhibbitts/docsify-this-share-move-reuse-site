@@ -1,4 +1,4 @@
-[← Grav 2 for Open Education and Publishing](grav-2/README.md)
+[← Grav 2 for Open Education and Publishing](/grav-2/README.md)
 
 # Topics
 

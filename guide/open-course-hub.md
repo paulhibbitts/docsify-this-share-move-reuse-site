@@ -1,4 +1,4 @@
-[← Open Textbooks, Guides and Courses](guide/README.md)
+[← Open Textbooks, Guides and Courses](/guide/README.md)
 
 # Open Course Space
 

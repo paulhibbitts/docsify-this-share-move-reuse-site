@@ -1,4 +1,4 @@
-[← Open Textbooks, Guides and Courses](guide/README.md)
+[← Open Textbooks, Guides and Courses](/guide/README.md)
 
 # From Pressbooks or Your LMS
 
