@@ -52,16 +52,6 @@ One course or many in a single site, organized by modules and ready to embed in 
 
 <small>Part 3</small>
 
-<h2><a href="#/open-course-hub/open-multicourse-hub">Open Course Hub and MultiCourse Hub</a></h2>
-
-The earlier course starters – still available, including for Grav 1.7 – and how their courses move to Open Course Space.
-
-</div>
-
-<div class="card">
-
-<small>Part 4</small>
-
 <h2><a href="#/open-course-hub/from-your-lms">From Your LMS</a></h2>
 
 A free converter turns an existing LMS course into Markdown pages for your course site.
@@ -70,11 +60,21 @@ A free converter turns an existing LMS course into Markdown pages for your cours
 
 <div class="card">
 
-<small>Part 5</small>
+<small>Part 4</small>
 
 <h2><a href="#/open-course-hub/accessibility-and-privacy">Accessibility and Privacy</a></h2>
 
 Keyboard, screen reader and reading comfort features, built in – with content and learner data on a site you control.
+
+</div>
+
+<div class="card">
+
+<small>Part 5</small>
+
+<h2><a href="#/open-course-hub/open-multicourse-hub">Open Course Hub and MultiCourse Hub</a></h2>
+
+The earlier course starters – still available, including for Grav 1.7 – and how their courses move to Open Course Space.
 
 </div>
 

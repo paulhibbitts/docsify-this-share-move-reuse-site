@@ -86,16 +86,6 @@ Pick the starter for your book or course – plus the trade-offs to know first.
 
 </div>
 
-<div class="card">
-
-<p></p>
-
-<h2><a href="#/guide/glossary">Glossary</a></h2>
-
-Terms used in this guide, from CC BY 4.0 to shortcodes.
-
-</div>
-
 </div>
 
 This version of the guide is published with [Docsify-This](https://docsify-this.net), straight from its Markdown files – [the original](https://share-move-reuse.hibbittsdesign.org/guide) is built with one of them, Open Publishing Space.

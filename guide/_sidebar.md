@@ -6,4 +6,3 @@
 - [From Pressbooks or Your LMS](guide/from-pressbooks-or-your-lms.md)
 - [Accessibility and Privacy](guide/accessibility.md)
 - [Which One Fits You?](guide/which-one-fits-you.md)
-- [Glossary](guide/glossary.md)
