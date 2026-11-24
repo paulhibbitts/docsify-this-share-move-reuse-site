@@ -1,3 +1,2 @@
 - [Share, Move, Reuse](home.md ":class=site-title")
-- [All Guides](home.md)
 - [About](about/README.md)

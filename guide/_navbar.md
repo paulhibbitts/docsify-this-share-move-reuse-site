@@ -1,5 +1,4 @@
 - [Share, Move, Reuse](home.md ":class=site-title")
-- [All Guides](home.md)
 - [Glossary](guide/glossary.md)
 - [Topics](guide/topics.md)
 - [Resources](guide/resources.md)
