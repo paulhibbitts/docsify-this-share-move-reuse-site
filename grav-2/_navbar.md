@@ -1,4 +1,4 @@
 - [Share, Move, Reuse](home.md ":class=site-title")
+- [About](about/README.md)
 - [Topics](grav-2/topics.md)
 - [Resources](grav-2/resources.md)
-- [About](about/README.md)
