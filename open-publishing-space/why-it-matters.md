@@ -26,4 +26,4 @@ Best of all for reuse, you (and, with an open licence, anyone) can get the Markd
 
 **One guide, many uses:** read it at your own pace, present it like slides (← and → move between pages), embed it in an LMS, print it or get its Markdown – all from the same pages. Write once, use it many ways.
 
-**About the author:** I'm Paul Hibbitts – I design open-source [Markdown](/open-publishing-space/glossary.md "A simple text format for web pages, supported almost everywhere, from GitHub to note-taking apps.") publishing tools for open educators and publishers, drawing on over 25 years of interaction design and decades of teaching user interface design at SFU and UBC.
+**About the author:** I'm Paul Hibbitts – I design open-source [Markdown](/open-publishing-space/glossary.md "A simple text format for web pages – **bold**, ## Heading, - list item – supported almost everywhere, from GitHub to note-taking apps.") publishing tools for open educators and publishers, drawing on over 25 years of interaction design and decades of teaching user interface design at SFU and UBC.
