@@ -11,7 +11,7 @@
 > - Judge whether it fits your open education or publishing project
 > - Find a free starter and explore its demo, with nothing to install
 
-**Open both ways:** content that's open for readers often stays inside its platform for its authors – harder to edit elsewhere, move or keep. What if the platform were open too?
+**Open both ways:** open content is meant to be retained, reused, revised, remixed and redistributed – [the 5Rs](https://opencontent.org/definition/) – by its authors as well as its readers. What if the platform were open too?
 
 > [!NOTE]
 > **The DIY answer: plain Markdown**
