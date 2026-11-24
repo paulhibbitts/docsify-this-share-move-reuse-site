@@ -15,7 +15,7 @@ All the starters and converters in this guide are **free and open-source**, and 
 **Explore it in 5 minutes,** on [the original version of this page](https://share-move-reuse.hibbittsdesign.org/grav-2/getting-started):
 
 1. **Add** `.md` to this page's address to see its Markdown
-2. **Press** ← and → to move through the original version of this guide, like slides
+2. **Press** ← and → to move through this guide, like slides
 3. **Sign in** to [the original site's read-only Admin 2 demo](https://try.hibbittsdesign.org/read-move-reuse/admin) and open a page – such as this one – to see its Markdown
 4. **Compare** [a Pressbooks book](https://ecampusontario.pressbooks.pub/universaldesign2/) with [the same book in Open Publishing Space](https://demo.hibbittsdesign.org/variants/grav-open-publishing-quark2-pressbooks-udl/), converted with no revisions
 
