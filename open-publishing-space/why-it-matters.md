@@ -11,7 +11,7 @@
 > - **Move:** keep a guide open to adapt or self-host, with plain Markdown
 > - **Reuse:** get the Markdown behind any page, with no source files needed
 
-**Open for reuse:** open textbooks and guides are meant to be reused and remixed (the [5Rs](https://opencontent.org/definition/) of open content), but they often live inside a single platform – harder to adapt, move or self-host elsewhere. What if every page stayed portable?
+**Open for reuse:** the [5Rs](https://opencontent.org/definition/) of open content – retain, reuse, revise, remix and redistribute – all depend on getting at the pages themselves. What if every page stayed portable?
 
 > [!NOTE]
 > **The DIY answer: plain Markdown**
