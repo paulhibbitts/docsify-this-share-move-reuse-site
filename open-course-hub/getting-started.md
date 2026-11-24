@@ -30,12 +30,12 @@ Then set up your own site:
 
 *Editing a course page in Admin 2 – plain Markdown, right in the browser*
 
-**Where to host:** many institutions offer web space for staff and students (often called a Domain of One's Own), and most low-cost web hosts run [PHP](/open-course-hub/glossary.md "The programming language Grav runs on. Most web hosts include it.") 8.3 or newer.
+**Where to host:** many institutions offer web space for staff and students (often called a Domain of One's Own), and most low-cost web hosts run [PHP](/open-course-hub/glossary.md?id=glossary-php "The programming language Grav runs on. Most web hosts include it.") 8.3 or newer.
 
 **See it moved:** this same guide also runs, with the same content, on [the Quark 2 theme](https://share-move-reuse.hibbittsdesign.org/open-course-hub) and [the classic Quark theme](https://demo.hibbittsdesign.org/share-move-reuse/share-move-reuse-ops-quark/open-course-hub), as an [Open Course Space course](https://demo.hibbittsdesign.org/share-move-reuse/share-move-reuse-ocs/open-course-hub), and on Grav Premium Helios as an [open reader](https://demo.hibbittsdesign.org/share-move-reuse/share-move-reuse-hor/open-course-hub) and a [course hub](https://demo.hibbittsdesign.org/share-move-reuse/share-move-reuse-hch/open-course-hub).
 
 > [!IMPORTANT]
-> **Good to know:** an open course site works alongside your LMS rather than replacing it – there are no grades, quizzes or enrolment. You'll need a PHP web host (no database), and Grav extras like definition and objectives boxes are [shortcodes](/open-course-hub/glossary.md "A short tag in square brackets that Grav turns into a box, an embed or another feature when it shows a page.") that other tools would need converted. If you ever lose access to a web host, the free [Grav Docsify Bridge](https://grav-docsify-bridge.hibbittsdesign.org/) turns your course into a Docsify-This site, with no web server needed.
+> **Good to know:** an open course site works alongside your LMS rather than replacing it – there are no grades, quizzes or enrolment. You'll need a PHP web host (no database), and Grav extras like definition and objectives boxes are [shortcodes](/open-course-hub/glossary.md?id=glossary-shortcode "A short tag in square brackets that Grav turns into a box, an embed or another feature when it shows a page.") that other tools would need converted. If you ever lose access to a web host, the free [Grav Docsify Bridge](https://grav-docsify-bridge.hibbittsdesign.org/) turns your course into a Docsify-This site, with no web server needed.
 
 With thanks to the authors of the openly licensed course used as an example, for sharing their work in the open 🙏🏻
 

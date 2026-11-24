@@ -4,25 +4,25 @@
 
 Terms used in this guide.
 
-**Markdown**<br>
+<a id="glossary-markdown"></a>**Markdown**<br>
 A simple text format for web pages – `**bold**`, `## Heading`, `- list item` – supported almost everywhere, from GitHub to note-taking apps.
 
-**OER**<br>
+<a id="glossary-oer"></a>**OER**<br>
 Open Educational Resources: teaching, learning and research materials that are free to use and openly licensed, so others can keep, adapt and share them.
 
-**PHP**<br>
+<a id="glossary-php"></a>**PHP**<br>
 The programming language Grav runs on. Most web hosts include it.
 
-**Pressbooks**<br>
+<a id="glossary-pressbooks"></a>**Pressbooks**<br>
 A book publishing platform built on WordPress, widely used for open textbooks.
 
-**Shortcode**<br>
+<a id="glossary-shortcode"></a>**Shortcode**<br>
 A short tag in square brackets that Grav turns into a box, an embed or another feature when it shows a page.
 
-**Starter skeleton**<br>
+<a id="glossary-starter-skeleton"></a>**Starter skeleton**<br>
 A ready-to-upload Grav download: Grav 2, a theme and sample content, so a new site starts from a working example.
 
-**Web-first**<br>
+<a id="glossary-web-first"></a>**Web-first**<br>
 Published first as web pages, with the website as the main edition – print and Markdown versions come from the same pages.
 
 <!-- Hides the sidebar on this page -->
