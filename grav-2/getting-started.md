@@ -42,6 +42,6 @@ Then set up your own site:
 
 With thanks to the authors of the openly licensed book and course used as examples, for sharing their work in the open 🙏🏻
 
-**Share this guide:** [share-move-reuse.hibbittsdesign.org/grav-2](https://share-move-reuse.hibbittsdesign.org/grav-2) – licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), so you can copy it, adapt it and share it, with credit.
+**Share this guide:** [share-move-reuse.hibbittsdesign.org/grav-2](https://share-move-reuse.hibbittsdesign.org/grav-2) – licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), so you can copy it, adapt it and share it, with credit, or [get it all as one Markdown file](https://share-move-reuse.hibbittsdesign.org/grav-2/llms-full.txt).
 
 Questions or ideas? [Get in touch](https://hibbittsdesign.org/contact.html) – Paul Hibbitts, [hibbittsdesign.org](https://hibbittsdesign.org/)
