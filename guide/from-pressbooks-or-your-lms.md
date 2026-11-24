@@ -6,8 +6,8 @@
 
 Start from what you already have, with two free converters (both in beta)[^1] – no Grav installation needed to see what carries over:
 
-- **[Pressbooks Converter](https://grav-pressbooks-converter.hibbittsdesign.org/)** – upload a <abbr title="A book publishing platform built on WordPress, widely used for open textbooks.">Pressbooks</abbr> export, and download an Open Publishing Space guide, ready to review and publish
-- **[Common Cartridge Converter](https://grav-common-cartridge-converter.hibbittsdesign.org/)** – export a course from Canvas, Moodle, Brightspace or Blackboard as a <abbr title="A standard file format for moving a course between learning management systems – Canvas, Moodle, Brightspace and Blackboard can all export one.">Common Cartridge</abbr> file, and download its modules, ready for Open Course Space
+- **[Pressbooks Converter](https://grav-pressbooks-converter.hibbittsdesign.org/)** – upload a [Pressbooks](/guide/glossary.md "A book publishing platform built on WordPress, widely used for open textbooks.") export, and download an Open Publishing Space guide, ready to review and publish
+- **[Common Cartridge Converter](https://grav-common-cartridge-converter.hibbittsdesign.org/)** – export a course from Canvas, Moodle, Brightspace or Blackboard as a [Common Cartridge](/guide/glossary.md "A standard file format for moving a course between learning management systems – Canvas, Moodle, Brightspace and Blackboard can all export one.") file, and download its modules, ready for Open Course Space
 
 **Already sharing Markdown with Docsify-This?** The free [Grav Docsify Bridge](https://grav-docsify-bridge.hibbittsdesign.org/) moves it into either starter, and back again.
 
@@ -23,7 +23,7 @@ Table: What carries over from a Pressbooks book
 
 ![A chapter of an openly licensed Pressbooks book, beside the same chapter after conversion to an Open Publishing Space guide, with its heading, text and image carried over, and a sidebar with a search box and the book's modules and chapters](pressbooks-to-open-publishing-space.webp)
 
-*The same chapter in Pressbooks and in Open Publishing Space, with no revisions – from [Universal Design for Learning (UDL) for Inclusion, Diversity, Equity, and Accessibility (IDEA)](https://ecampusontario.pressbooks.pub/universaldesign2/), <abbr title="A Creative Commons licence that lets anyone share and adapt a work, for any purpose, as long as they give credit.">CC BY 4.0</abbr>*
+*The same chapter in Pressbooks and in Open Publishing Space, with no revisions – from [Universal Design for Learning (UDL) for Inclusion, Diversity, Equity, and Accessibility (IDEA)](https://ecampusontario.pressbooks.pub/universaldesign2/), [CC BY 4.0](/guide/glossary.md "A Creative Commons licence that lets anyone share and adapt a work, for any purpose, as long as they give credit.")*
 
 ![A converted module intro page on a phone, twice: at the top with the module title, authors and three icons, and scrolled down to a Learning Objectives box listing four outcomes, both with a Previous and Next bar at the bottom of the screen](pressbooks-to-open-publishing-space-phone.webp)
 

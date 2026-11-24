@@ -30,7 +30,7 @@ Then set up your own site:
 
 *Editing a course page in Admin 2 – plain Markdown, right in the browser*
 
-**Where to host:** many institutions offer web space for staff and students (often called a Domain of One's Own), and most low-cost web hosts run <abbr title="The programming language Grav runs on. Most web hosts include it.">PHP</abbr> 8.3 or newer.
+**Where to host:** many institutions offer web space for staff and students (often called a Domain of One's Own), and most low-cost web hosts run [PHP](/open-course-hub/glossary.md "The programming language Grav runs on. Most web hosts include it.") 8.3 or newer.
 
 **See it moved:** this same guide also runs, with the same content, on [the Quark 2 theme](https://share-move-reuse.hibbittsdesign.org/open-course-hub) and [the classic Quark theme](https://demo.hibbittsdesign.org/share-move-reuse/share-move-reuse-ops-quark/open-course-hub), as an [Open Course Space course](https://demo.hibbittsdesign.org/share-move-reuse/share-move-reuse-ocs/open-course-hub), and on Grav Premium Helios as an [open reader](https://demo.hibbittsdesign.org/share-move-reuse/share-move-reuse-hor/open-course-hub) and a [course hub](https://demo.hibbittsdesign.org/share-move-reuse/share-move-reuse-hch/open-course-hub).
 

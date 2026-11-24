@@ -6,7 +6,7 @@
 
 A free, open-source website starter for open textbooks and guides – plus a blog and other pages – built on Grav 2, a free CMS. Each guide is a website first, with print and Markdown versions from the same pages.
 
-- Guides with section cards, reading progress, Learning Objectives, <abbr title="Open Educational Resources: teaching, learning and research materials that are free to use and openly licensed, so others can keep, adapt and share them.">OER</abbr> attribution, search and **Keep My Place**
+- Guides with section cards, reading progress, Learning Objectives, [OER](/open-publishing-space/glossary.md "Open Educational Resources: teaching, learning and research materials that are free to use and openly licensed, so others can keep, adapt and share them.") attribution, search and **Keep My Place**
 - Present a guide like slides with the ← and → keys
 - A "This page as Markdown" link on every page – for you to reuse, and anyone else too with an open licence
 - One site can hold several guides, plus site pages like [About](about/README.md)
