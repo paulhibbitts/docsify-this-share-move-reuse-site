@@ -4,7 +4,7 @@
 
 Start from what you already have, with two free converters (both in beta)[^1] – no Grav installation needed to see what carries over:
 
-- **[Pressbooks Converter](https://grav-pressbooks-converter.hibbittsdesign.org/)** – upload a [Pressbooks](/guide/glossary.md?id=glossary-pressbooks "A book publishing platform built on WordPress, widely used for open textbooks.") export, and download an Open Publishing Space guide, ready to review and publish
+- **[Pressbooks Converter](https://grav-pressbooks-converter.hibbittsdesign.org/)** – upload a Pressbooks export, and download an Open Publishing Space guide, ready to review and publish
 - **[Common Cartridge Converter](https://grav-common-cartridge-converter.hibbittsdesign.org/)** – export a course from Canvas, Moodle, Brightspace or Blackboard as a [Common Cartridge](/guide/glossary.md?id=glossary-common-cartridge "A standard file format for moving a course between learning management systems – Canvas, Moodle, Brightspace and Blackboard can all export one.") file, and download its modules, ready for Open Course Space
 
 **Already sharing Markdown with Docsify-This?** The free [Grav Docsify Bridge](https://grav-docsify-bridge.hibbittsdesign.org/) moves it into either starter, and back again.
