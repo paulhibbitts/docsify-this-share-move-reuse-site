@@ -1,5 +1,3 @@
-[← Grav 2 for Open Education and Publishing](/grav-2/README.md)
-
 # Open Course Space
 
 <small>Part 5</small>

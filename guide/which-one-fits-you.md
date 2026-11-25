@@ -1,5 +1,3 @@
-[← Open Textbooks, Guides and Courses](/guide/README.md)
-
 # Which One Fits You?
 
 <small>Part 6</small>

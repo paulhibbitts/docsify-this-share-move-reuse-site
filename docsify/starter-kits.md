@@ -1,5 +1,3 @@
-[← Docsify for Open Education and Publishing](/docsify/README.md)
-
 # Docsify Starter Kits
 
 <small>Part 3</small>

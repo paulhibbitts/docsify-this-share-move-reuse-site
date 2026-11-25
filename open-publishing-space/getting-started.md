@@ -1,5 +1,3 @@
-[← Open Textbooks and Guides](/open-publishing-space/README.md)
-
 # Getting Started
 
 <small>Part 5</small>

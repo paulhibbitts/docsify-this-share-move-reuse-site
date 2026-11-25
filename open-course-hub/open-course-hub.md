@@ -1,5 +1,3 @@
-[← Open Courses](/open-course-hub/README.md)
-
 # Open Course Space
 
 <small>Part 2</small>

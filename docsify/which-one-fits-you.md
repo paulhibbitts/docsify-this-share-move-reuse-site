@@ -1,5 +1,3 @@
-[← Docsify for Open Education and Publishing](/docsify/README.md)
-
 # Which One Fits You?
 
 <small>Part 5</small>

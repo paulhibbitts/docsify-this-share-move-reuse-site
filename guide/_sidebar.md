@@ -1,4 +1,4 @@
-**Open Textbooks, Guides and Courses**
+[**Open Textbooks, Guides and Courses**](guide/README.md)
 
 - [Why It Matters](guide/why-it-matters.md)
 - [Open Publishing Space](guide/open-publishing-space.md)

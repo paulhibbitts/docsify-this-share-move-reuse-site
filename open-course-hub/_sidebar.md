@@ -1,4 +1,4 @@
-**Open Courses**
+[**Open Courses**](open-course-hub/README.md)
 
 - [Why It Matters](open-course-hub/why-it-matters.md)
 - [Open Course Space](open-course-hub/open-course-hub.md)

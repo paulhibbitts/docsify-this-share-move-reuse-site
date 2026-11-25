@@ -1,5 +1,3 @@
-[← Grav 2 for Open Education and Publishing](/grav-2/README.md)
-
 # Why It Matters
 
 <small>Part 1</small>

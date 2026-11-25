@@ -1,5 +1,3 @@
-[← Open Courses](/open-course-hub/README.md)
-
 # From Your LMS
 
 <small>Part 3</small>

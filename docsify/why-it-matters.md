@@ -1,5 +1,3 @@
-[← Docsify for Open Education and Publishing](/docsify/README.md)
-
 # Why It Matters
 
 <small>Part 1</small>

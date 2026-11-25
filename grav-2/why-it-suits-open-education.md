@@ -1,5 +1,3 @@
-[← Grav 2 for Open Education and Publishing](/grav-2/README.md)
-
 # Why It Suits Open Education and Publishing
 
 <small>Part 3</small>

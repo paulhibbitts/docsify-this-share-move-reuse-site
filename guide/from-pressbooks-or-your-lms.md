@@ -1,5 +1,3 @@
-[← Open Textbooks, Guides and Courses](/guide/README.md)
-
 # From Pressbooks or Your LMS
 
 <small>Part 4</small>

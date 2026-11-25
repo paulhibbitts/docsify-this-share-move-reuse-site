@@ -1,5 +1,3 @@
-[← Open Textbooks and Guides](/open-publishing-space/README.md)
-
 # Open Publishing Space
 
 <small>Part 2</small>

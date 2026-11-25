@@ -1,5 +1,3 @@
-[← Open Courses](/open-course-hub/README.md)
-
 # Getting Started
 
 <small>Part 5</small>

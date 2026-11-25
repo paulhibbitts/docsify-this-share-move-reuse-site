@@ -1,5 +1,3 @@
-[← Docsify for Open Education and Publishing](/docsify/README.md)
-
 # Docsify-This
 
 <small>Part 2</small>

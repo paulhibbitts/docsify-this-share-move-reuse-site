@@ -1,4 +1,4 @@
-**Grav 2 for Open Education and Publishing**
+[**Grav 2 for Open Education and Publishing**](grav-2/README.md)
 
 - [Why It Matters](grav-2/why-it-matters.md)
 - [Meet Grav 2](grav-2/meet-grav-2.md)

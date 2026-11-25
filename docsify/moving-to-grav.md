@@ -1,5 +1,3 @@
-[← Docsify for Open Education and Publishing](/docsify/README.md)
-
 # Moving to Grav, and Back
 
 <small>Part 4</small>

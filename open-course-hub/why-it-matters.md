@@ -1,5 +1,3 @@
-[← Open Courses](/open-course-hub/README.md)
-
 # Why It Matters
 
 <small>Part 1</small>

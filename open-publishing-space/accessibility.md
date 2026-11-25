@@ -1,5 +1,3 @@
-[← Open Textbooks and Guides](/open-publishing-space/README.md)
-
 # Accessibility and Privacy
 
 <small>Part 4</small>

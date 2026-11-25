@@ -1,5 +1,3 @@
-[← Grav 2 for Open Education and Publishing](/grav-2/README.md)
-
 # Meet Grav 2
 
 <small>Part 2</small>

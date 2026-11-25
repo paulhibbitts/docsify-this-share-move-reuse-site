@@ -1,5 +1,3 @@
-[← Open Textbooks and Guides](/open-publishing-space/README.md)
-
 # From Pressbooks
 
 <small>Part 3</small>

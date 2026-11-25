@@ -1,5 +1,3 @@
-[← Open Textbooks and Guides](/open-publishing-space/README.md)
-
 # Why It Matters
 
 <small>Part 1</small>

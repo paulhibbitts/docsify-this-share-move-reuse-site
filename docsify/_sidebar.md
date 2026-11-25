@@ -1,4 +1,4 @@
-**Docsify for Open Education and Publishing**
+[**Docsify for Open Education and Publishing**](docsify/README.md)
 
 - [Why It Matters](docsify/why-it-matters.md)
 - [Docsify-This](docsify/docsify-this.md)

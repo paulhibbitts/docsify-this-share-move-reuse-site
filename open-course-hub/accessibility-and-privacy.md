@@ -1,5 +1,3 @@
-[← Open Courses](/open-course-hub/README.md)
-
 # Accessibility and Privacy
 
 <small>Part 4</small>
