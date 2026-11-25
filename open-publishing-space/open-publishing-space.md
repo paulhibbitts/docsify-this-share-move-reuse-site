@@ -17,7 +17,7 @@ flowchart LR
 
 Pages **embed in Canvas, Moodle or Brightspace** – just add `?embedded=true` to a page's address.
 
-Editing works **in the browser** with Grav's Admin 2 panel, or as Markdown files with any editor or **via Git** – with no database needed, on most PHP web hosts.
+Editing works **in the browser** with Grav's Admin 2 panel, or as Markdown files with any editor or **via Git** – with no database needed, on most [PHP](/open-publishing-space/glossary.md?id=glossary-php "The programming language Grav runs on. Most web hosts include it.") web hosts.
 
 ![An Open Publishing Space guide home page, with its cover, Start Reading button, search box and a card for each section](open-publishing-space-guide.jpg)
 

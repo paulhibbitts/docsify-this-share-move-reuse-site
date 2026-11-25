@@ -20,7 +20,7 @@ Paul Hibbitts
 
 </div>
 
-Many platforms can make textbooks and courses open for their readers and learners. This short guide introduces two free, open-source website starters that make them open for their authors too – plus free converters that bring in a Pressbooks book or LMS course.
+Many platforms can make textbooks and courses open for their readers and learners. This short guide introduces two free, open-source website starters that make them open for their authors too – plus free converters that bring in a [Pressbooks](/guide/glossary.md?id=glossary-pressbooks "A book publishing platform built on WordPress, widely used for open textbooks.") book or LMS course.
 
 <div class="card-list card-list-sections">
 
@@ -86,7 +86,7 @@ Pick the starter for your book or course – plus the trade-offs to know first.
 
 </div>
 
-This version of the guide is published with [Docsify-This](https://docsify-this.net), straight from its Markdown files – [the original](https://share-move-reuse.hibbittsdesign.org/guide) is built with one of them, Open Publishing Space.
+This version of the guide is published with [Docsify-This](https://docsify-this.net), straight from its [Markdown](/guide/glossary.md?id=glossary-markdown "A simple text format for web pages – **bold**, ## Heading, - list item – supported almost everywhere, from GitHub to note-taking apps.") files – [the original](https://share-move-reuse.hibbittsdesign.org/guide) is built with one of them, Open Publishing Space.
 
 > [!TIP]
 > **Built on Grav 2:** the new version of [Grav](https://getgrav.org/), a free, open-source content management system (CMS) – with a modern Admin 2 panel rebuilt from scratch, a Markdown version of every page and faster loading pages, still just files with no database.

@@ -78,7 +78,7 @@ Explore the demos and try the converter, with nothing to install – plus the li
 
 </div>
 
-This version of the guide is published with [Docsify-This](https://docsify-this.net), straight from its Markdown files – [the original](https://share-move-reuse.hibbittsdesign.org/open-course-hub) is built with Open Course Space's twin, Open Publishing Space. Want to see it as a course? Here's [this guide in Open Course Space](https://demo.hibbittsdesign.org/share-move-reuse/share-move-reuse-ocs/open-course-hub/home), with the same content.
+This version of the guide is published with [Docsify-This](https://docsify-this.net), straight from its [Markdown](/open-course-hub/glossary.md?id=glossary-markdown "A simple text format for web pages – **bold**, ## Heading, - list item – supported almost everywhere, from GitHub to note-taking apps.") files – [the original](https://share-move-reuse.hibbittsdesign.org/open-course-hub) is built with Open Course Space's twin, Open Publishing Space. Want to see it as a course? Here's [this guide in Open Course Space](https://demo.hibbittsdesign.org/share-move-reuse/share-move-reuse-ocs/open-course-hub/home), with the same content.
 
 > [!TIP]
 > **Built on Grav 2:** the new version of [Grav](https://getgrav.org/), a free, open-source content management system (CMS) – with a modern Admin 2 panel rebuilt from scratch, a Markdown version of every page and faster loading pages, still just files with no database.

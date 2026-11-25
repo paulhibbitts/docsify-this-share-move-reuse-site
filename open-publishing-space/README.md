@@ -22,7 +22,7 @@ Paul Hibbitts
 
 Open textbooks and guides are meant to be reused, but they often live inside a single platform – harder to adapt or self-host elsewhere, even for their own authors.
 
-This short guide introduces Open Publishing Space, a free, open-source website starter for web-first open textbooks and guides, alongside a blog and other pages – plus a [free converter](https://grav-pressbooks-converter.hibbittsdesign.org/) that brings in a Pressbooks book.
+This short guide introduces Open Publishing Space, a free, open-source website starter for [web-first](/open-publishing-space/glossary.md?id=glossary-web-first "Published first as web pages, with the website as the main edition – print and Markdown versions come from the same pages.") open textbooks and guides, alongside a blog and other pages – plus a [free converter](https://grav-pressbooks-converter.hibbittsdesign.org/) that brings in a [Pressbooks](/open-publishing-space/glossary.md?id=glossary-pressbooks "A book publishing platform built on WordPress, widely used for open textbooks.") book.
 
 <div class="card-list card-list-sections">
 
@@ -78,7 +78,7 @@ Explore the demo and try the converter, with nothing to install – plus the lim
 
 </div>
 
-This version of the guide is published with [Docsify-This](https://docsify-this.net), straight from its Markdown files – [the original](https://share-move-reuse.hibbittsdesign.org/open-publishing-space) is built with Open Publishing Space.
+This version of the guide is published with [Docsify-This](https://docsify-this.net), straight from its [Markdown](/open-publishing-space/glossary.md?id=glossary-markdown "A simple text format for web pages – **bold**, ## Heading, - list item – supported almost everywhere, from GitHub to note-taking apps.") files – [the original](https://share-move-reuse.hibbittsdesign.org/open-publishing-space) is built with Open Publishing Space.
 
 > [!TIP]
 > **Built on Grav 2:** the new version of [Grav](https://getgrav.org/), a free, open-source content management system (CMS) – with a modern Admin 2 panel rebuilt from scratch, a Markdown version of every page and faster loading pages, still just files with no database.
