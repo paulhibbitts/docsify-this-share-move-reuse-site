@@ -2,7 +2,7 @@
 
 # Glossary
 
-Terms used in this guide.
+Terms used in this guide. In the guide, terms with a dotted underline show their definition when you hover over them, and open this page at their entry when selected.
 
 <a id="glossary-common-cartridge"></a>**Common Cartridge**<br>
 A standard file format for moving a course between learning management systems – Canvas, Moodle, Brightspace and Blackboard can all export one.

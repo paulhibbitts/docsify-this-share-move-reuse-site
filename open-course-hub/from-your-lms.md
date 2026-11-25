@@ -2,7 +2,7 @@
 
 # From Your LMS
 
-<small>Part 4</small>
+<small>Part 3</small>
 
 Already have a course in your LMS? Start from it, with a free converter (in beta) – no Grav installation needed to see what carries over:
 

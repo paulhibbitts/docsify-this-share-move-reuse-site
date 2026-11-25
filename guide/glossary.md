@@ -2,7 +2,7 @@
 
 # Glossary
 
-Terms used in this guide.
+Terms used in this guide. In the guide, terms with a dotted underline show their definition when you hover over them, and open this page at their entry when selected.
 
 <a id="glossary-cc-by-4-0"></a>**CC BY 4.0**<br>
 A Creative Commons licence that lets anyone share and adapt a work, for any purpose, as long as they give credit.

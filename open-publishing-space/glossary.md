@@ -2,7 +2,7 @@
 
 # Glossary
 
-Terms used in this guide.
+Terms used in this guide. In the guide, terms with a dotted underline show their definition when you hover over them, and open this page at their entry when selected.
 
 <a id="glossary-markdown"></a>**Markdown**<br>
 A simple text format for web pages – `**bold**`, `## Heading`, `- list item` – supported almost everywhere, from GitHub to note-taking apps.
