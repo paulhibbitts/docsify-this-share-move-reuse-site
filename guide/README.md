@@ -48,7 +48,7 @@ Open textbooks and guides as websites, with the Markdown behind every page a cli
 
 <small>Part 3</small>
 
-## [Open Course Space](/guide/open-course-hub.md) <!-- {docsify-ignore} -->
+## [Open Course Space](/guide/open-course-space.md) <!-- {docsify-ignore} -->
 
 An open course site organized by modules – one course or many – ready to embed in your LMS.
 

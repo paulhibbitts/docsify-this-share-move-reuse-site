@@ -70,7 +70,7 @@ A free starter for open textbooks and guides – plus converters to bring in wha
 
 <small>Part 5</small>
 
-## [Open Course Space](/grav-2/open-course-hub.md) <!-- {docsify-ignore} -->
+## [Open Course Space](/grav-2/open-course-space.md) <!-- {docsify-ignore} -->
 
 Open Publishing Space's twin, for open courses – plus a converter to bring in an LMS course.
 
