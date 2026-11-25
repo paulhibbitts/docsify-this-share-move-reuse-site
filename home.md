@@ -34,9 +34,9 @@ A DIY Path from Plain Markdown or Pressbooks
 
 <div class="card">
 
-[![A bicycle with a front basket leaning against a yellow wall](open-course-space/bicycle-yellow-wall.jpg ":no-zoom")](open-course-space/README.md)
+[![A bicycle with a front basket leaning against a yellow wall](open-courses/bicycle-yellow-wall.jpg ":no-zoom")](open-courses/README.md)
 
-## [Open Courses](open-course-space/README.md) <!-- {docsify-ignore} -->
+## [Open Courses](open-courses/README.md) <!-- {docsify-ignore} -->
 
 A DIY Path from Plain Markdown or Your LMS
 
@@ -74,7 +74,7 @@ Markdown on the Web, with No Web Server Needed
 
 - **[Open Textbooks, Guides and Courses](guide/README.md)** – start here if you're not sure: the overview, for books and courses
 - **[Open Textbooks and Guides](open-publishing-space/README.md)** – for you if you write or share textbooks and guides
-- **[Open Courses](open-course-space/README.md)** – for you if you teach or design courses
+- **[Open Courses](open-courses/README.md)** – for you if you teach or design courses
 - **[Grav 2 for Open Education and Publishing](grav-2/README.md)** – for you if you're choosing a platform
 - **[Docsify for Open Education and Publishing](docsify/README.md)** – for you if you'd rather start without a web server, and move to Grav later
 

@@ -1,4 +1,4 @@
-[← Open Courses](/open-course-space/README.md)
+[← Open Courses](/open-courses/README.md)
 
 # Resources
 

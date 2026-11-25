@@ -10,7 +10,7 @@ All the starters and converters in this guide are **free and open-source**, and 
 - **"I want to share a textbook or guide"** → its twin, Open Publishing Space – see the [Open Textbooks and Guides](open-publishing-space/README.md) guide
 
 
-**Explore it in 5 minutes,** on [the original version of this page](https://share-move-reuse.hibbittsdesign.org/open-course-space/getting-started):
+**Explore it in 5 minutes,** on [the original version of this page](https://share-move-reuse.hibbittsdesign.org/open-courses/getting-started):
 
 1. **Add** `.md` to this page's address to see its Markdown
 2. **Press** ← and → to move through this guide, like slides
@@ -30,13 +30,13 @@ Then set up your own site:
 
 **Where to host:** many institutions offer web space for staff and students (often called a Domain of One's Own), and most low-cost web hosts run PHP 8.3 or newer.
 
-**See it moved:** this same guide also runs, with the same content, on [the Quark 2 theme](https://share-move-reuse.hibbittsdesign.org/open-course-space) and [the classic Quark theme](https://demo.hibbittsdesign.org/share-move-reuse/share-move-reuse-ops-quark/open-course-space), as an [Open Course Space course](https://demo.hibbittsdesign.org/share-move-reuse/share-move-reuse-ocs/open-course-space), and on Grav Premium Helios as an [open reader](https://demo.hibbittsdesign.org/share-move-reuse/share-move-reuse-hor/open-course-space) and a [course hub](https://demo.hibbittsdesign.org/share-move-reuse/share-move-reuse-hch/open-course-space).
+**See it moved:** this same guide also runs, with the same content, on [the Quark 2 theme](https://share-move-reuse.hibbittsdesign.org/open-courses) and [the classic Quark theme](https://demo.hibbittsdesign.org/share-move-reuse/share-move-reuse-ops-quark/open-courses), as an [Open Course Space course](https://demo.hibbittsdesign.org/share-move-reuse/share-move-reuse-ocs/open-courses), and on Grav Premium Helios as an [open reader](https://demo.hibbittsdesign.org/share-move-reuse/share-move-reuse-hor/open-courses) and a [course hub](https://demo.hibbittsdesign.org/share-move-reuse/share-move-reuse-hch/open-courses).
 
 > [!IMPORTANT]
-> **Good to know:** an open course site works alongside your LMS rather than replacing it – there are no grades, quizzes or enrolment. You'll need a PHP web host (no database), and Grav extras like definition and objectives boxes are [shortcodes](/open-course-space/glossary.md?id=glossary-shortcode "A short tag in square brackets that Grav turns into a box, an embed or another feature when it shows a page.") that other tools would need converted. If you ever lose access to a web host, the free [Grav Docsify Bridge](https://grav-docsify-bridge.hibbittsdesign.org/) turns your course into a Docsify-This site, with no web server needed.
+> **Good to know:** an open course site works alongside your LMS rather than replacing it – there are no grades, quizzes or enrolment. You'll need a PHP web host (no database), and Grav extras like definition and objectives boxes are [shortcodes](/open-courses/glossary.md?id=glossary-shortcode "A short tag in square brackets that Grav turns into a box, an embed or another feature when it shows a page.") that other tools would need converted. If you ever lose access to a web host, the free [Grav Docsify Bridge](https://grav-docsify-bridge.hibbittsdesign.org/) turns your course into a Docsify-This site, with no web server needed.
 
 With thanks to the authors of the openly licensed course used as an example, for sharing their work in the open 🙏🏻
 
-**Share this guide:** [share-move-reuse.hibbittsdesign.org/open-course-space](https://share-move-reuse.hibbittsdesign.org/open-course-space) – licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), so you can copy it, adapt it and share it, with credit, or [get it all as one Markdown file](https://share-move-reuse.hibbittsdesign.org/open-course-space/llms-full.txt).
+**Share this guide:** [share-move-reuse.hibbittsdesign.org/open-courses](https://share-move-reuse.hibbittsdesign.org/open-courses) – licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), so you can copy it, adapt it and share it, with credit, or [get it all as one Markdown file](https://share-move-reuse.hibbittsdesign.org/open-courses/llms-full.txt).
 
 Questions or ideas? [Get in touch](https://hibbittsdesign.org/contact.html) – Paul Hibbitts, [hibbittsdesign.org](https://hibbittsdesign.org/)
