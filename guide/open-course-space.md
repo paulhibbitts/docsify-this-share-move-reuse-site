@@ -11,7 +11,7 @@ Open Publishing Space's twin, for **courses**: a free, open-source website start
 
 Pages **embed in Canvas, Moodle or Brightspace** – just add `?embedded=true` (this works for Open Publishing Space pages too).
 
-**New:** Open Course Space is an early preview.
+**New:** Open Course Space is a preview release.
 
 ![An Open Course Space course home page, with the course's own menu and header image, What's Happening This Week linking to the current module, reminders with due dates, and Canvas LMS links beside them](open-course-space-home.webp)
 
