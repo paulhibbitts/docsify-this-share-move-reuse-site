@@ -34,8 +34,10 @@ Examples (raw conversions, with no revisions or fine-tuning): [four openly licen
 [^1]: Beta means they handle many books and courses well, but a converted guide or course may need some tidying – tables inserted with a Pressbooks shortcode, for example, need replacing with Markdown tables.
 
 > [!NOTE]
-> **Compare them yourself** – the [original Pressbooks book](https://ecampusontario.pressbooks.pub/universaldesign2/), and the [same book in Open Publishing Space](https://demo.hibbittsdesign.org/variants/grav-open-publishing-quark2-pressbooks-udl/), converted with no revisions.
+> **See four converted books** – [in Open Publishing Space](https://demo.hibbittsdesign.org/variants/grav-open-publishing-quark2-pressbooks-books/), with one search box for all of them, and [the same books on Docsify-This](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-open-publishing-pressbooks-sites/main&homepage=home.md&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&pagination=true&searchbox=true&collapsibleSidebarGroups=true&collapseSidebarGroups=true&dark-mode=auto&name=Books%20from%20Pressbooks&edit-link=https://raw.githubusercontent.com/paulhibbitts/docsify-open-publishing-pressbooks-sites/main/home.md&edit-link-text=This%20page%20as%20Markdown&edit-link-emoji=:page_facing_up:), with no server needed.
 >
-> *Thanks to the authors for making this book open!*
+> **Compare one yourself** – the [original Pressbooks book](https://ecampusontario.pressbooks.pub/universaldesign2/) and the [same book in Open Publishing Space](https://demo.hibbittsdesign.org/variants/grav-open-publishing-quark2-pressbooks-udl/), converted with no revisions.
+>
+> *Thanks to the authors for making these books open!*
 >
 > **See a converted course** – [an LMS course in Open Course Space](https://demo.hibbittsdesign.org/variants/grav-open-course-space-common-cartridge-it2dda/), converted with no revisions.
