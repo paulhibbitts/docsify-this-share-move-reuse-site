@@ -19,6 +19,10 @@ Pages **embed in Canvas, Moodle or Brightspace** – just add `?embedded=true` t
 
 Editing works **in the browser** with Grav's Admin 2 panel, or as Markdown files with any editor or **via Git** – with no database needed, on most [PHP](/open-publishing-space/glossary.md?id=glossary-php "The programming language Grav runs on. Most web hosts include it.") web hosts.
 
+![The Why It Matters page open in Admin 2's page editor, with its title above and its text below in plain Markdown, such as bold labels and a definition shortcode, beside the page's settings](open-publishing-space-admin-2-editor.webp)
+
+*Editing a page in Admin 2 – plain Markdown, right in the browser*
+
 ![An Open Publishing Space guide home page, with its cover, Start Reading button, search box and a card for each section](open-publishing-space-guide.jpg)
 
 *A guide home page, from the Open Publishing Space demo*

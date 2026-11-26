@@ -26,10 +26,6 @@ Then set up your own site:
 2. **Upload** it to your web host and unzip it (your host's file manager can do this), then open the site
 3. **Open** Admin 2 by adding `/admin` to the site's address, set up your account, then follow **Getting Started** in its sidebar – the Sample Guide is ready to start your own from
 
-![The Why It Matters page open in Admin 2's page editor, with its title above and its text below in plain Markdown, such as bold labels and a definition shortcode, beside the page's settings](open-publishing-space-getting-started.webp)
-
-*Editing a page in Admin 2 – plain Markdown, right in the browser*
-
 **Where to host:** many institutions offer web space for staff and students (often called a Domain of One's Own), and most low-cost web hosts run PHP 8.3 or newer.
 
 **No web server?** Start with Docsify, like this version of the guide: the [Docsify Open Publishing Starter Kit](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit) (on GitHub Pages) or [Docsify-This](https://docsify-this.net/) (from any Markdown files online) gives readers the same basics – a guide cover, section cards, Previous/Next, Continue reading and search within the guide. Your guide stays plain Markdown in folders, so it can move to Open Publishing Space later, when you want the whole guide as one Markdown file, a searchable Guides page or editing in the browser.
