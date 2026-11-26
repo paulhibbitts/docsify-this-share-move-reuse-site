@@ -22,7 +22,7 @@ Paul Hibbitts
 
 Open textbooks and guides are meant to be reused, but they often live inside a single platform – harder to adapt or self-host elsewhere, even for their own authors.
 
-This short guide introduces Open Publishing Space, a free, open-source website starter for [web-first](/open-publishing-space/glossary.md?id=glossary-web-first "Published first as web pages, with the website as the main edition – print and Markdown versions come from the same pages.") open textbooks and guides, alongside a blog and other pages – plus a [free converter](https://grav-pressbooks-converter.hibbittsdesign.org/) that brings in a [Pressbooks](/open-publishing-space/glossary.md?id=glossary-pressbooks "A book publishing platform built on WordPress, widely used for open textbooks.") book, or turns it into a Docsify-This site with no server needed.
+This short guide introduces Open Publishing Space, a free, open-source website starter for [web-first](/open-publishing-space/glossary.md?id=glossary-web-first "Published first as web pages, with the website as the main edition – print and Markdown versions come from the same pages.") open textbooks and guides, alongside a blog and other pages – plus a [free converter](https://grav-pressbooks-converter.hibbittsdesign.org/) that brings in a [Pressbooks](/open-publishing-space/glossary.md?id=glossary-pressbooks "A book publishing platform built on WordPress, widely used for open textbooks.") book, or turns it into a Docsify-This site with no web server needed.
 
 <div class="card-list card-list-sections">
 
