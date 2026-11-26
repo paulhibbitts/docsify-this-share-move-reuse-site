@@ -10,7 +10,6 @@ Every topic in the guide, from A to Z.
 
 - [Accessibility](open-courses/accessibility-and-privacy.md)
 - [Admin 2](open-courses/open-course-space.md)
-- [Admin2 Site ReadMe plugin](open-courses/open-course-space.md)
 
 ## C
 
@@ -33,7 +32,7 @@ Every topic in the guide, from A to Z.
 
 ## G
 
-- [Grav Docsify Bridge](open-courses/from-your-lms.md)
+- [Grav Docsify Bridge](open-courses/getting-started.md)
 
 ## H
 
