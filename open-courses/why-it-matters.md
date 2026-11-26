@@ -18,7 +18,7 @@
 
 **Not ready to openly license your work?** Plain Markdown still keeps your course materials yours – ready for next term, a new LMS or a new institution.
 
-Best of all for reuse, you (and, with an open licence, anyone) can get the Markdown behind any page – no source files needed – with its callouts, math and diagrams intact, ready for [Docsify-This](https://docsify-this.net/) (which shows Markdown as web pages) or GitHub.
+Best of all for reuse, you (and, with an open licence, anyone) can get the Markdown behind any page – no source files needed – with its callouts, math and diagrams intact. It's ready for [Docsify-This](https://docsify-this.net/) (which shows Markdown as web pages) or GitHub.
 
 **See an example:** [an openly licensed LMS course on a course site](https://demo.hibbittsdesign.org/variants/grav-open-course-space-common-cartridge-it2dda/), converted with no revisions – more in [From Your LMS](open-courses/from-your-lms.md).
 
