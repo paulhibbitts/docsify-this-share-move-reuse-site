@@ -9,7 +9,7 @@
 > - **Move:** keep a course open to adapt or self-host, with plain Markdown
 > - **Reuse:** get the Markdown behind any page, with no source files needed
 
-**Open beyond the LMS:** course pages outside the LMS can be read by anyone, linked from any course, reused next term and shared with colleagues. What if every page stayed open and portable?
+**Open beyond the LMS:** course pages outside the LMS can be read by anyone, linked from any course, reused next term and shared with colleagues. An open licence gives you the [5Rs](https://opencontent.org/definition/); Share, Move, Reuse is what makes them practical.
 
 > [!NOTE]
 > **The DIY answer: plain Markdown**

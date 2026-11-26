@@ -9,7 +9,7 @@
 > - Judge whether it fits your open education or publishing project
 > - Find a free starter and explore its demo, with nothing to install
 
-**Open both ways:** open content is meant to be retained, reused, revised, remixed and redistributed – [the 5Rs](https://opencontent.org/definition/) – by its authors as well as its readers. What if the platform were open too?
+**Open both ways:** an open licence gives you the [5Rs](https://opencontent.org/definition/) – retain, reuse, revise, remix and redistribute – for authors as well as readers, and Share, Move, Reuse is what makes them practical. What if the platform were open too?
 
 > [!NOTE]
 > **The DIY answer: plain Markdown**

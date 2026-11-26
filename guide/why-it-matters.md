@@ -9,7 +9,7 @@
 > - **Move:** take content between tools, or from Pressbooks or an LMS
 > - **Reuse:** get any page's Markdown, for your own purposes
 
-**Open both ways:** open content is meant to be reused and remixed ([the 5Rs](https://opencontent.org/definition/)), but content that's open for readers often stays inside the platform for its authors – harder to edit elsewhere, move or keep. What if it were open for both?
+**Open both ways:** an open licence gives you the [5Rs](https://opencontent.org/definition/), but content that's open for readers often stays inside the platform for its authors – harder to edit elsewhere, move or keep. Share, Move, Reuse is what makes them practical, for both.
 
 > [!NOTE]
 > **The DIY answer: plain Markdown**
