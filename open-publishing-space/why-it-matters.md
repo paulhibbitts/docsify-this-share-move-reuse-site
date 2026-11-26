@@ -9,7 +9,7 @@
 > - **Move:** keep a guide open to adapt or self-host, with plain Markdown
 > - **Reuse:** get the Markdown behind any page, with no source files needed
 
-**Open for reuse:** an open licence gives you the [5Rs](https://opencontent.org/definition/) – retain, reuse, revise, remix and redistribute – but they all depend on getting at the pages themselves. Share, Move, Reuse is what makes them practical.
+**Open for good:** an open licence gives you the [5Rs](https://opencontent.org/definition/) – retain, reuse, revise, remix and redistribute – but they all depend on getting at the pages themselves. Share, Move, Reuse is what makes them practical.
 
 > [!NOTE]
 > **The DIY answer: plain Markdown**
