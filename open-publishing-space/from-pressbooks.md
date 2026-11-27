@@ -2,7 +2,7 @@
 
 <small>Part 3</small>
 
-Already have a book in Pressbooks? Start from it, with a free converter (in beta) – no Grav installation needed to see what carries over:
+**Have a book in Pressbooks, or want to adapt an open one?** Start from it, with a free converter (in beta) – no Grav installation needed to see what carries over:
 
 - **[Pressbooks Converter](https://grav-pressbooks-converter.hibbittsdesign.org/)** – upload a Pressbooks XHTML export, and download an Open Publishing Space guide, ready to review and publish
 

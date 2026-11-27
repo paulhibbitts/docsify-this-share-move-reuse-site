@@ -2,7 +2,7 @@
 
 <small>Part 4</small>
 
-Start from what you already have, with two free converters (both in beta)[^1] – no Grav installation needed to see what carries over:
+Start from your own book or course, or an open one to adapt, with two free converters (both in beta)[^1] – no Grav installation needed to see what carries over:
 
 - **[Pressbooks Converter](https://grav-pressbooks-converter.hibbittsdesign.org/)** – upload a Pressbooks XHTML export, and download an Open Publishing Space guide, ready to review and publish
 - **[Common Cartridge Converter](https://grav-common-cartridge-converter.hibbittsdesign.org/)** – export a course from Canvas, Moodle, Brightspace or Blackboard as a [Common Cartridge](/guide/glossary.md?id=glossary-common-cartridge "A standard file format for moving a course between learning management systems – Canvas, Moodle, Brightspace and Blackboard can all export one.") file, and download its modules, ready for Open Course Space
