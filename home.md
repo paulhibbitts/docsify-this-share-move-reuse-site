@@ -4,7 +4,7 @@ Free, open-source DIY tools for open textbooks, guides and courses
 
 Five short guides from the same source – not sure which? Start with the overview, [Open Textbooks, Guides and Courses](guide/README.md).
 
-**Share, Move, Reuse – the [5Rs](https://opencontent.org/definition/) in practice:** share pages in many ways, for all kinds of readers · your content moves wherever you go · you can always reuse your Markdown – and so can others, if you choose.
+**Share, Move, Reuse – the [5Rs](https://opencontent.org/definition/) in practice:** share pages in many ways, for all kinds of readers · your content can move with you · you can always reuse your Markdown – and so can others, if you choose.
 
 <div class="card-list card-list-guides">
 
