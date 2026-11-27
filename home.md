@@ -82,7 +82,7 @@ Markdown on the Web, with No Web Server Needed
 
 These guides show Markdown portability at work: the same files also run with my other open-source tools – [Open Publishing Space – Quark 2](https://share-move-reuse.hibbittsdesign.org) · [Open Publishing Space – Classic Quark](https://demo.hibbittsdesign.org/share-move-reuse/share-move-reuse-ops-quark/) · [Open Course Space](https://demo.hibbittsdesign.org/share-move-reuse/share-move-reuse-ocs/) · [Helios Open Reader](https://demo.hibbittsdesign.org/share-move-reuse/share-move-reuse-hor/) · [Helios Course Hub](https://demo.hibbittsdesign.org/share-move-reuse/share-move-reuse-hch/)
 
-Open Textbooks and Guides was prepared for the ETUG Fall Workshop 2026.
+Open Textbooks and Guides was presented at the ETUG Fall Workshop 2026.
 
 <!-- Hides the sidebar on this page, and shows the line below the title as a subtitle, as on the Grav version -->
 <style>aside.sidebar, button.sidebar-toggle { display: none !important; } section.content { left: 0 !important; transition: none !important; } .markdown-section > h1 + p { font-size: 1.2em; color: color-mix(in srgb, var(--color-mono-max) 70%, transparent); }</style>
