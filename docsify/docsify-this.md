@@ -20,7 +20,7 @@ Named a finalist in the Open Infrastructure category of the 2024 Open Education 
 
 **Start from a template:** a [Guide Site](https://github.com/hibbitts-design/docsify-this-guide-site) for an open guide (a [Multiple Guides Site](https://github.com/hibbitts-design/docsify-this-multiple-guides-site) for several), or a [Course Site](https://github.com/hibbitts-design/docsify-this-multiple-page-course-site) for a course (a [Courses Site](https://github.com/hibbitts-design/docsify-this-courses-site) for several) – copy it to your GitHub account and edit the Markdown. When you want your own address and styling, the same files move to a Docsify Starter Kit (Part 3).
 
-**Whole textbooks, too:** what started as a test of how portable Markdown is turned out to work for complete books. Four open textbooks converted from Pressbooks now run on Docsify-This, with no web server and no build step:
+**Whole textbooks, too:** what started as a test of how portable Markdown is turned out to work for complete books. Six open books converted from Pressbooks now run on Docsify-This, with no web server and no build step:
 
 - **Chapters in the sidebar,** grouped by part, with Previous/Next on phones
 - **Glossary terms** linked to their definitions
